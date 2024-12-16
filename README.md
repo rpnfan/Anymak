@@ -13,3 +13,12 @@ Anymak END -- multi-lingual keyboard layout ⇒ E = English, N = Nederlands, D =
     (Linux and MacOS should work the same, but not tested, let me know if that works without changes).
 
 Can be used with a programmable keyboard. Here a Kanata configuration is provided to be used with any keyboard (even laptops).
+
+<img width="510" alt="image" src="https://github.com/user-attachments/assets/831424e4-12c4-4882-844e-616ea1f494a3" />
+
+<img width="495" alt="image" src="https://github.com/user-attachments/assets/a0fa15e8-b310-45bb-941b-84cc33df30b5" />
+
+<img width="502" alt="image" src="https://github.com/user-attachments/assets/c0bc3410-9659-43e3-98ca-2ac42213030d" />
+
+
+
