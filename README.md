@@ -1,4 +1,4 @@
-Anymak:END -- multi-lingual keyboard layout ⇒ E = English, N = Nederlands, D = Deutsch 
+anymak:END -- multi-lingual keyboard layout ⇒ E = English, N = Nederlands, D = Deutsch 
   END = final destination of my keyboard layout journey :-)
  Umlauts, Trema and accents needed for German and Dutch are easily accesible (only 2 keystrokes needed), 
     while French and Spanish are also supported as second priority language,
