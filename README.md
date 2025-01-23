@@ -3,6 +3,8 @@
 
 The Anymak concept can be applied to any alphanumeric or language layout. A ready-to-run software implementation in Kanata for anymak:END can be downloaded here.
 
+Read the [detailed article](https://kbd.news/Anymak-the-compatible-ergonomic-keyboard-layout-2574.html) why this setup was chosen. This will likely help you to choose or create your own personal "best" solution.
+
 # anymak:END — multi-lingual keyboard layout
 END stands for ⇒ E = English, N = Nederlands, D = Deutsch
 
