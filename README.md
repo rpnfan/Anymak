@@ -1,4 +1,4 @@
-# Anymak — the compatible ergonomic keyboard layout
+ k # Anymak — the compatible ergonomic keyboard layout
 *Anymak* is a keyboard layout approach designed to largely enhance typing comfort. By  rearranging keys, and utilizing one-shot modifiers and bottom-row mods, *Anymak* makes it easier to access common keys like Shift, symbols and navigation shortcuts, while minimizing finger stretching. It maintains consistent key positions across both standard and ergonomic split keyboards. As a versatile keymap approach, *Anymak* is compatible with various layouts, allowing you to continue using QWERTY, Colemak, or any other layout you prefer. I myself use the *Anymak* concept with a fully optimized multi-language character layout, specifically designed for English, German, Dutch, and other European languages.  It is named anymak:END and probably also the last layout you might need.
 
 The Anymak concept can be applied to any alphanumeric or language layout. A ready-to-run software implementation in Kanata for anymak:END can be downloaded here.
