@@ -27,7 +27,7 @@ Can be used with a programmable keyboard or a software solution. To be able to t
 
 <img width="510" alt="image" src="https://github.com/user-attachments/assets/831424e4-12c4-4882-844e-616ea1f494a3" />
 
-<img width="495" alt="image" src="https://github.com/user-attachments/assets/a0fa15e8-b310-45bb-941b-84cc33df30b5" />
+![image](https://github.com/user-attachments/assets/28d342f0-9352-4ead-ac60-974c9e9c6051)
 
 <img width="502" alt="image" src="https://github.com/user-attachments/assets/c0bc3410-9659-43e3-98ca-2ac42213030d" />
 
