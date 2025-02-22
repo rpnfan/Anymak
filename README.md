@@ -11,7 +11,7 @@ END stands for ⇒ E = English, N = Nederlands, D = Deutsch
 
 It also marks the final destination of my keyboard layout journey :-)
 
-
+ 
  Umlauts, Trema and accents needed for German and Dutch are easily accesible (only 2 keystrokes needed), 
     while French and Spanish are also supported as second priority language,
     accents  ~ ` ^ realized as dead keys on symbol layer (3 key strokes needed).
