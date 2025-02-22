@@ -1,0 +1,260 @@
+AdNW             479.023 total effort   224.197 positional effort    left right
+                   1.092 same finger rp   2.155 shift same finger top  6.8 11.6
+  kuü.ä vgcljf    71.371 hand alternat.  25.980 shift hand alter. mid 34.5 32.5
+  hieao dtrnsß     1.524 inward/outward  25.219 inward or outward bot  5.4  9.3
+  xyö,q bpwmz     10.383 adjacent        21.856 shift adjacent    sum 46.7 53.3
+                   5.168 no hand altern. 45.391 two hand altern.
+                   3.970 seesaw           5.727 indir same finger
+                  9.2 11.0 16.1 10.4 --.- --.- 16.5 10.9 15.4 10.5 Sh  3.8  1.6
+
+
+BEAKL-15         562.074 total effort   209.307 positional effort    left right
+                   5.481 same finger rp   2.225 shift same finger top 10.1 15.5
+  qhoux gcrfzü    69.001 hand alternat.  30.085 shift hand alter. mid 28.3 27.8
+  yieaß dstnbä     1.515 inward/outward  23.201 inward or outward bot  7.5 10.8
+  j.ök, wmlpv     15.108 adjacent        16.916 shift adjacent    sum 45.9 54.1
+                   7.699 no hand altern. 43.192 two hand altern.
+                   3.769 seesaw           8.891 indir same finger
+                  3.9 11.7 18.7 11.6 --.- --.- 19.6 16.2 11.8  6.5 Sh  3.7  1.6
+
+
+Bone             471.303 total effort   188.682 positional effort    left right
+                   1.906 same finger rp   2.359 shift same finger top 13.4 12.5
+  jduax phlmwß    64.621 hand alternat.  33.444 shift hand alter. mid 33.8 26.6
+  ctieo bnrsgq     0.992 inward/outward  31.155 inward or outward bot  6.7  7.0
+  fvüäö yz,.k     15.179 adjacent         4.751 shift adjacent    sum 53.9 46.1
+                  10.066 no hand altern. 38.412 two hand altern.
+                   4.796 seesaw           5.554 indir same finger
+                  5.9 11.8 11.8 24.4 --.- --.- 17.4 11.5  9.2  8.0 Sh  3.0  2.4
+
+
+Canary           534.029 total effort   236.165 positional effort    left right
+                   1.900 same finger rp  11.573 shift same finger top  7.7  9.4
+  wlypb zfouüß    57.142 hand alternat.  42.069 shift hand alter. mid 23.9 40.4
+  crstg mneiaä     1.317 inward/outward  38.640 inward or outward bot  9.1  9.5
+  qjvdk xhö,.     20.641 adjacent        16.004 shift adjacent    sum 40.7 59.3
+                  16.479 no hand altern. 32.239 two hand altern.
+                  10.453 seesaw           3.200 indir same finger
+                  6.3 10.4  6.2 17.8 --.- --.- 18.6 18.1 12.1 10.5 Sh  2.2  3.2
+
+
+Colemak          555.896 total effort   224.863 positional effort    left right
+                   2.657 same finger rp  14.330 shift same finger top  6.6  7.8
+  qwfpg jluyßö    54.644 hand alternat.  44.153 shift hand alter. mid 28.1 39.3
+  arstd hneioä     1.345 inward/outward  40.382 inward or outward bot  8.4  9.9
+  zxcvb km,.ü     24.311 adjacent        10.849 shift adjacent    sum 43.1 56.9
+                  20.485 no hand altern. 29.761 two hand altern.
+                  12.804 seesaw           5.002 indir same finger
+                  7.1  9.4  7.4 19.2 --.- --.- 21.0 20.0  8.5  7.4 Sh  1.9  3.5
+
+
+Colemak-DH       552.826 total effort   220.813 positional effort    left right
+                   2.657 same finger rp  14.330 shift same finger top  5.6  7.8
+  qwfpb jluyßö    54.644 hand alternat.  44.153 shift hand alter. mid 26.3 37.7
+  arstg mneioä     1.345 inward/outward  40.382 inward or outward bot 11.1 11.4
+  zxcdv kh,.ü     24.311 adjacent        10.849 shift adjacent    sum 43.1 56.9
+                  20.485 no hand altern. 29.761 two hand altern.
+                  12.804 seesaw           5.002 indir same finger
+                  7.1  9.4  7.4 19.2 --.- --.- 21.0 20.0  8.5  7.4 Sh  1.9  3.5
+
+
+Dvorak           567.548 total effort   257.888 positional effort    left right
+                   2.313 same finger rp  13.836 shift same finger top  3.2 17.9
+  ß,.py fgcrlü    66.875 hand alternat.  27.014 shift hand alter. mid 34.0 30.1
+  aoeui dhtnsä     1.487 inward/outward  28.495 inward or outward bot  5.6  9.4
+  öqjkx bmwvz     14.072 adjacent        17.850 shift adjacent    sum 42.7 57.3
+                  10.452 no hand altern. 40.999 two hand altern.
+                   6.006 seesaw           6.322 indir same finger
+                  9.0  3.8 16.3 13.6 --.- --.- 17.0  9.9 17.1 13.3 Sh  3.7  1.7
+
+
+Engram           564.977 total effort   212.855 positional effort    left right
+                   4.690 same finger rp   8.247 shift same finger top  8.4 12.0
+  byouä üldwvz    65.850 hand alternat.  32.794 shift hand alter. mid 31.8 25.9
+  ciea, .htsnq     1.187 inward/outward  27.143 inward or outward bot  7.7 14.1
+  gxjkß örmfp     16.154 adjacent        11.191 shift adjacent    sum 48.0 52.0
+                   9.233 no hand altern. 38.257 two hand altern.
+                   4.235 seesaw           4.828 indir same finger
+                  7.7 10.3 17.9 12.0 --.- --.- 16.1 12.7  8.8 14.4 Sh  3.2  2.1
+
+
+Focal            556.381 total effort   240.049 positional effort    left right
+                   2.033 same finger rp  11.898 shift same finger top 12.5  8.3
+  vlhgk qfoujü    69.288 hand alternat.  27.575 shift hand alter. mid 29.6 31.4
+  srntb ycaeiä     1.268 inward/outward  26.362 inward or outward bot 10.9  7.3
+  zxmdp ßw.ö,     13.891 adjacent        27.736 shift adjacent    sum 53.0 47.0
+                   6.040 no hand altern. 42.016 two hand altern.
+                   4.107 seesaw           5.569 indir same finger
+                  8.5 11.5 13.5 19.5 --.- --.-  5.9  8.5 19.1 13.5 Sh  1.8  3.5
+
+
+Gallium          588.203 total effort   248.185 positional effort    left right
+                   2.617 same finger rp  18.001 shift same finger top 13.4  8.0
+  bldcv jyou,ü    69.896 hand alternat.  29.235 shift hand alter. mid 30.6 33.4
+  nrtsg phaeiä     1.033 inward/outward  25.169 inward or outward bot  7.2  7.4
+  xqmwz kföß.     13.638 adjacent        30.064 shift adjacent    sum 51.2 48.8
+                   6.799 no hand altern. 44.241 two hand altern.
+                   3.449 seesaw           4.527 indir same finger
+                 13.3 10.4 10.3 17.1 --.- --.-  8.1  7.9 19.0 13.8 Sh  2.1  3.2
+
+
+Graphite         585.387 total effort   249.226 positional effort    left right
+                   2.791 same finger rp  16.502 shift same finger top 12.4  8.5
+  bldwz äfoujö    69.896 hand alternat.  29.235 shift hand alter. mid 30.6 33.3
+  nrtsg yhaei,     1.095 inward/outward  24.995 inward or outward bot  8.2  7.1
+  qxmcv kp.üß     13.471 adjacent        30.753 shift adjacent    sum 51.2 48.8
+                   6.799 no hand altern. 44.240 two hand altern.
+                   3.332 seesaw           4.922 indir same finger
+                 13.3 10.4 10.3 17.1 --.- --.-  8.4  8.5 19.4 12.5 Sh  2.1  3.2
+
+
+Hands-Down-Neu-sym506.872 total effort   219.727 positional effort    left right
+                   2.833 same finger rp   4.842 shift same finger top  7.1  3.5
+  wfmpv ö.üäßz    70.361 hand alternat.  29.846 shift hand alter. mid 29.6 33.4
+  rsntb ,aeihj     2.042 inward/outward  24.488 inward or outward bot 15.3 11.0
+  cldgq xuoyk     12.881 adjacent        12.626 shift adjacent    sum 52.1 47.9
+                   5.944 no hand altern. 44.826 two hand altern.
+                   3.721 seesaw           5.812 indir same finger
+                 10.0 10.1 15.4 16.5 --.- --.- 10.9 18.4  8.1 10.5 Sh  1.8  3.6
+
+
+KOU              450.074 total effort   192.225 positional effort    left right
+                   1.217 same finger rp   2.237 shift same finger top  8.7 10.8
+  k.ouä qgclfj    70.899 hand alternat.  27.726 shift hand alter. mid 32.2 29.8
+  haeiy btrnsß     1.890 inward/outward  25.566 inward or outward bot  6.8 11.8
+  zx,üö pdwmv     11.042 adjacent        19.990 shift adjacent    sum 47.7 52.3
+                   5.540 no hand altern. 45.356 two hand altern.
+                   3.770 seesaw           5.978 indir same finger
+                  9.0  7.2 17.9 13.6 --.- --.- 15.7 10.9 15.4 10.3 Sh  3.7  1.7
+
+
+KOY              472.498 total effort   216.901 positional effort    left right
+                   1.145 same finger rp   2.155 shift same finger top  5.9 11.1
+  k.o,y vgclßz    71.371 hand alternat.  25.980 shift hand alter. mid 35.5 33.9
+  haeiu dtrnsf     1.732 inward/outward  25.166 inward or outward bot  5.2  8.3
+  xqäüö bpwmj     10.827 adjacent        20.147 shift adjacent    sum 46.7 53.3
+                   5.168 no hand altern. 45.391 two hand altern.
+                   3.635 seesaw           6.065 indir same finger
+                  9.2  6.1 17.9 13.6 --.- --.- 16.5 10.9 15.4 10.5 Sh  3.8  1.6
+
+
+KOY30variant     483.516 total effort   203.979 positional effort    left right
+                   2.188 same finger rp   2.737 shift same finger top  9.0 12.4
+  kfouy vdcljü    68.620 hand alternat.  30.803 shift hand alter. mid 33.2 31.1
+  haei, gtrnsä     1.731 inward/outward  26.874 inward or outward bot  5.8  8.6
+  xq.zö bpwmß     11.970 adjacent        19.502 shift adjacent    sum 47.9 52.1
+                   8.187 no hand altern. 43.289 two hand altern.
+                   5.062 seesaw           5.820 indir same finger
+                  8.8  6.7 17.9 14.5 --.- --.- 16.5 10.9 15.4  9.2 Sh  3.5  1.9
+
+
+Middlemak-NH     510.854 total effort   219.304 positional effort    left right
+                   1.355 same finger rp  15.188 shift same finger top 12.2  8.4
+  qwldg jfouüß    67.081 hand alternat.  36.753 shift hand alter. mid 28.7 32.7
+  nsrtp yheiaä     1.214 inward/outward  29.246 inward or outward bot  8.8  9.2
+  zxcvb km,.ö     15.887 adjacent        11.870 shift adjacent    sum 49.7 50.3
+                   8.261 no hand altern. 41.287 two hand altern.
+                   4.837 seesaw           4.690 indir same finger
+                 11.7  8.4 10.4 19.2 --.- --.-  9.7 19.0 11.9  9.8 Sh  2.2  3.1
+
+
+Neo              618.650 total effort   211.016 positional effort    left right
+                   6.494 same finger rp   3.871 shift same finger top  8.6  9.8
+  xvlcw khgfqß    64.447 hand alternat.  32.585 shift hand alter. mid 34.0 32.5
+  uiaeo snrtdy     0.617 inward/outward  26.742 inward or outward bot  6.5  8.7
+  üöäpz bm,.j     10.469 adjacent        10.332 shift adjacent    sum 49.0 51.0
+                   9.846 no hand altern. 37.412 two hand altern.
+                   4.590 seesaw           9.909 indir same finger
+                  6.7  8.9  8.9 24.5 --.- --.- 24.9 10.7  8.2  7.2 Sh  3.2  2.2
+
+
+Noted            484.821 total effort   201.913 positional effort    left right
+                   1.646 same finger rp   1.597 shift same finger top  9.9 10.5
+  zyuaq pbmlfj    66.162 hand alternat.  28.421 shift hand alter. mid 33.9 30.7
+  csieo dtnrhß     1.122 inward/outward  29.874 inward or outward bot  5.5  9.6
+  vxüäö wg,.k     15.832 adjacent         4.441 shift adjacent    sum 49.3 50.7
+                   7.802 no hand altern. 39.654 two hand altern.
+                   3.944 seesaw           6.143 indir same finger
+                  7.1  6.8 11.0 24.3 --.- --.- 17.0 13.0 11.3  9.4 Sh  3.3  2.1
+
+
+Pit-2.0          473.739 total effort   196.089 positional effort    left right
+                   2.297 same finger rp   2.945 shift same finger top  7.4 12.4
+  qkouy vdcljü    68.208 hand alternat.  30.816 shift hand alter. mid 33.6 31.1
+  haeif gtrnsä     1.813 inward/outward  27.177 inward or outward bot  6.8  8.7
+  z,.xß bpmwö     12.602 adjacent        18.577 shift adjacent    sum 47.8 52.2
+                   8.687 no hand altern. 42.780 two hand altern.
+                   4.775 seesaw           5.611 indir same finger
+                  7.5  7.6 19.0 13.7 --.- --.- 16.5 12.0 14.4  9.3 Sh  3.5  1.9
+
+
+PUQ30-variant    493.171 total effort   219.956 positional effort    left right
+                   1.751 same finger rp   3.472 shift same finger top  5.8 13.6
+  puö,q gclmfü    69.273 hand alternat.  27.777 shift hand alter. mid 34.5 32.9
+  hieao dtrnsä     1.598 inward/outward  26.659 inward or outward bot  6.2  7.2
+  ky.ßx jvwbz     11.988 adjacent        21.383 shift adjacent    sum 46.4 53.6
+                   7.612 no hand altern. 43.423 two hand altern.
+                   4.808 seesaw           5.627 indir same finger
+                  8.5 12.3 15.7  9.9 --.- --.- 16.7 11.8 13.7 11.4 Sh  3.6  1.8
+
+
+QOU-1.2          457.615 total effort   199.253 positional effort    left right
+                   1.465 same finger rp   2.090 shift same finger top  6.7 12.9
+  qüouy vdcljz    71.371 hand alternat.  25.980 shift hand alter. mid 32.6 32.1
+  haeiä gtrnsf     1.777 inward/outward  24.846 inward or outward bot  7.4  8.3
+  kx.,ö bpmwß     11.443 adjacent        20.005 shift adjacent    sum 46.7 53.3
+                   5.168 no hand altern. 45.391 two hand altern.
+                   3.507 seesaw           5.457 indir same finger
+                  7.9  7.1 17.9 13.9 --.- --.- 16.5 12.0 14.4 10.5 Sh  3.8  1.6
+
+
+QWERTY           788.373 total effort   313.237 positional effort    left right
+                   8.859 same finger rp  10.322 shift same finger top 29.4 15.0
+  qwert yuiopü    51.797 hand alternat.  53.830 shift hand alter. mid 19.7  9.9
+  asdfg hjklöä     1.053 inward/outward  37.026 inward or outward bot  8.4 17.6
+  zxcvb nm,.ß     24.490 adjacent         7.642 shift adjacent    sum 57.5 42.5
+                  23.690 no hand altern. 27.348 two hand altern.
+                  12.179 seesaw           7.364 indir same finger
+                  7.0  8.4 19.9 22.2 --.- --.- 19.7 10.0  6.9  5.9 Sh  1.8  3.5
+
+
+QWERTZ           803.798 total effort   314.553 positional effort    left right
+                   9.508 same finger rp  10.446 shift same finger top 29.4 16.0
+  qwert zuiopü    51.645 hand alternat.  53.800 shift hand alter. mid 19.7  9.9
+  asdfg hjklöä     1.045 inward/outward  36.529 inward or outward bot  7.5 17.5
+  yxcvb nm,.ß     24.285 adjacent         8.055 shift adjacent    sum 56.6 43.4
+                  23.505 no hand altern. 27.389 two hand altern.
+                  11.743 seesaw           7.553 indir same finger
+                  7.1  7.4 19.9 22.2 --.- --.- 20.8 10.0  6.9  5.8 Sh  2.0  3.4
+
+
+Sturdy           550.630 total effort   231.320 positional effort    left right
+                   2.628 same finger rp  11.518 shift same finger top 10.5  8.3
+  vmlcp xfoujü    58.701 hand alternat.  40.750 shift hand alter. mid 23.1 38.8
+  strdy .naeiä     1.324 inward/outward  36.353 inward or outward bot  8.8 10.6
+  zkqgw bhöß,     16.216 adjacent        20.276 shift adjacent    sum 42.3 57.7
+                  15.157 no hand altern. 32.983 two hand altern.
+                   9.661 seesaw           3.223 indir same finger
+                  8.8  9.4 11.7 12.3 --.- --.- 17.7  7.9 19.0 13.2 Sh  2.1  3.2
+
+
+VOU              457.329 total effort   188.254 positional effort    left right
+                   1.543 same finger rp   3.324 shift same finger top  8.2 12.1
+  v.ouä qglhfj    70.509 hand alternat.  24.928 shift hand alter. mid 30.8 29.8
+  caeiy btrnsß     1.487 inward/outward  25.630 inward or outward bot  6.9 12.1
+  zx,üö pdwmk     12.184 adjacent        21.011 shift adjacent    sum 46.0 54.0
+                   4.987 no hand altern. 43.546 two hand altern.
+                   3.651 seesaw           6.074 indir same finger
+                  7.4  7.2 17.9 13.6 --.- --.- 15.7 11.8 15.9 10.6 Sh  3.8  1.5
+
+
+XOY              471.870 total effort   211.525 positional effort    left right
+                   1.380 same finger rp   2.089 shift same finger top  4.7 10.2
+  x.o,y vgcljß    71.371 hand alternat.  25.980 shift hand alter. mid 35.5 33.9
+  haeiu dtrnsf     1.723 inward/outward  24.931 inward or outward bot  6.5  9.3
+  kqäüö bpwmz     11.224 adjacent        20.213 shift adjacent    sum 46.7 53.3
+                   5.168 no hand altern. 45.391 two hand altern.
+                   3.547 seesaw           6.322 indir same finger
+                  7.9  7.4 17.9 13.6 --.- --.- 16.5 10.9 15.4 10.5 Sh  3.8  1.6
+
+

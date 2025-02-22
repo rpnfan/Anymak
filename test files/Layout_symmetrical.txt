@@ -1,0 +1,30 @@
+﻿kuü.ävgcljfhieaodtrnsßxyö,qbpwmz   AdNW
+qhouxgcrfzüyieaßdstnbäj.ök,wmlpv   BEAKL-15
+jduaxphlmwßctieobnrsgqfvüäöyz,.k   Bone
+wlypbzfouüßcrstgmneiaäqjvdkxhö,.   Canary
+qwfpgjluyßöarstdhneioäzxcvbkm,.ü   Colemak
+qwfpbjluyßöarstgmneioäzxcdvkh,.ü   Colemak-DH
+ß,.pyfgcrlüaoeuidhtnsäöqjkxbmwvz   Dvorak
+BYOUäüLDWVZCIEA,.HTSNQGXJKßöRMFP   Engram
+vlhgkqfoujüsrntbycaeiäzxmdpßw.ö,   Focal
+bldcvjyou,ünrtsgphaeiäxqmwzkföß.   Gallium
+bldwzäfoujönrtsgyhaei,qxmcvkp.üß   Graphite
+wfmpvö.üäßzrsntb,aeihjcldgqxuoyk   Hands-Down-Neu-sym
+k.ouäqgclfjhaeiybtrnsßzx,üöpdwmv   KOU
+k.o,yvgclßzhaeiudtrnsfxqäüöbpwmj   KOY
+KFOUYvDCLJÜHAEI,GTRNSÄxq.ZöBPWMß   KOY30variant
+QWLDGJFOUüßNSRTPYHEIAäZXCVBKM,.ö   Middlemak-NH
+xvlcwkhgfqßuiaeosnrtdyüöäpzbm,.j   Neo
+zyuaqpbmlfjcsieodtnrhßvxüäöwg,.k   Noted
+qkOuYVdCLJüHAEIfgTRNSäz,.xßBPmwö   Pit-2.0 # kou inspired
+puö,qgclmfühieaodtrnsäky.ßxjvwbz   PUQ30-variant
+qüOuYVdCLJzHAEIägTRNSfKx.,ÖBPmwß   QOU-1.2 # final erst mal
+qwertyuiopüasdfghjklöäzxcvbnm,.ß   QWERTY
+qwertzuiopüasdfghjklöäyxcvbnm,.ß   QWERTZ
+vmlcpxfoujüstrdy.naeiäzkqgwbhöß,   Sturdy
+v.ouäqglhfjcaeiybtrnsßzx,üöpdwmk   VOU
+X.O,YVGCLJßHAEIUDTRNSFKQÄÜÖBPWMZ   XOY
+
+
+
+

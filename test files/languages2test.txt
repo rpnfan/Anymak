@@ -1,0 +1,13 @@
+czech
+danish
+dutch
+english
+french
+german
+hungarian
+italian
+polish
+portugese
+spanish
+swedish
+turkish
