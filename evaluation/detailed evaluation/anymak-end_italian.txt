@@ -1,0 +1,54 @@
+END              304.767 total effort   159.575 positional effort    left right
+                   2.502 same finger rp   2.004 shift same finger top 12.2 15.0
+  qkouy vdclfj    72.516 hand alternat.  30.037 shift hand alter. mid 31.3 25.2
+  haei, gtrns¨     1.280 inward/outward  20.618 inward or outward bot  7.8  8.6
+   z'.x bpmw       9.825 adjacent        24.889 shift adjacent    sum 51.2 48.8
+                   5.121 no hand altern. 48.235 two hand altern.
+                   3.158 seesaw           7.453 indir same finger
+                  5.0 11.6 18.2 16.4 --.- --.- 15.7 12.2 12.7  8.2 Sh  3.9  2.5
+  same fing/fi.  0.00 0.64 0.16 1.08           0.04 0.47 0.01 0.11 Sh 1.00 1.00
+  " " jump >= 2  0.00 0.00 0.03 0.02           0.02 0.00 0.00 0.02 Sh 0.03 0.22
+  adjacent/fin.pair 0.56 0.54 4.32                2.95 0.93 0.53   Sh13.5811.31
+  " " row jump >=2  0.00 0.10 0.83                0.01 0.06 0.11   Sh 0.03 5.77
+
+  % all   %  left  cumulative
+  1.272   9.995 (  9.995): io : Outwards, adjacent finger, row jump
+  1.077   8.463 ( 18.458): ia : Outwards
+
+  % all   % right  cumulative
+  1.282   8.688 (  8.688): nt : Inwards
+  1.138   7.711 ( 16.399): st : Inwards
+
+  % all   %  left  cumulative
+  4.209   8.395 (  8.395): La : Shift-Inwards, adjacent finger, row jump
+  2.914   5.811 ( 14.206): Ma : Shift-Inwards, adjacent finger, row jump
+  2.741   5.466 ( 19.672): Co : Shift-Inwards, double row jump
+
+  % all   % right  cumulative
+  4.056  20.457 ( 20.457): Il : Shift-Inwards, adjacent finger, double row jump
+
+  % all   % 0 h.a. cumulative
+  0.548  10.704 ( 10.704): zio : Inwards, row jump + Outwards, adjacent finger, row jump (seesaw)
+  0.346   6.759 ( 17.463): azi : Same finger repetition, row jump + Inwards, row jump
+
+  % all   % 2 h.a. cumulative
+  0.648   1.359 (  1.359): del : indirect Outwards
+  0.638   1.338 (  2.697): per : indirect Outwards, adjacent finger, row jump
+  0.632   1.326 (  4.023): con : indirect Outwards, adjacent finger, row jump
+  0.603   1.264 (  5.288): ato : indirect Inwards, adjacent finger, row jump
+  0.558   1.170 (  6.458): one : indirect Same finger repetition, row jump
+  0.443   0.930 (  7.388): ono : indirect Double stroke
+  0.417   0.874 (  8.262): men : indirect Outwards, adjacent finger, row jump
+  0.350   0.735 (  8.997): non : indirect Double stroke
+  0.340   0.714 (  9.711): son : indirect Inwards, adjacent finger
+  0.329   0.691 ( 10.402): tat : indirect Double stroke
+  0.307   0.645 ( 11.047): ale : indirect Inwards, adjacent finger
+  0.304   0.639 ( 11.685): oni : indirect Inwards, adjacent finger, row jump
+  0.299   0.628 ( 12.313): com : indirect Same finger repetition, double row jump
+  0.294   0.617 ( 12.930): ati : indirect Inwards
+  0.293   0.615 ( 13.545): tor : indirect Outwards, adjacent finger
+  0.292   0.613 ( 14.159): are : indirect Inwards, adjacent finger
+  0.292   0.613 ( 14.771): res : indirect Outwards
+  0.287   0.603 ( 15.374): ter : indirect Outwards, adjacent finger
+
+

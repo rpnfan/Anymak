@@ -1,0 +1,53 @@
+END              392.791 total effort   187.918 positional effort    left right
+                   6.237 same finger rp   4.398 shift same finger top 15.6 13.7
+  qkouy vdclfj    71.514 hand alternat.  45.880 shift hand alter. mid 32.0 25.3
+  haei, gtrns¨     0.971 inward/outward  21.412 inward or outward bot  4.6  8.8
+   z'.x bpmw       9.800 adjacent        15.070 shift adjacent    sum 52.2 47.8
+                   6.752 no hand altern. 49.747 two hand altern.
+                   3.143 seesaw           6.085 indir same finger
+                  2.6 17.8 13.2 18.6 --.- --.- 13.6 11.4 14.2  8.7 Sh  1.5  2.1
+  same fing/fi.  0.02 2.68 0.08 1.73           0.14 0.35 0.54 0.70 Sh 0.34 4.06
+  " " jump >= 2  0.00 0.01 0.01 0.10           0.01 0.03 0.00 0.01 Sh 0.00 0.32
+  adjacent/fin.pair 0.98 2.63 2.18                1.64 1.63 0.74   Sh 9.56 5.51
+  " " row jump >=2  0.02 0.24 0.09                0.09 0.63 0.01   Sh 0.02 2.53
+
+  % all   %  left  cumulative
+  1.275   7.592 (  7.592): ya : Outwards, row jump
+  1.071   6.381 ( 13.973): ka : Same finger repetition, row jump
+  1.020   6.077 ( 20.049): ak : Same finger repetition, row jump
+
+  % all   % right  cumulative
+  1.187  10.151 ( 10.151): nd : Inwards, row jump
+  0.529   4.519 ( 14.669): nl : Same finger repetition, row jump
+  0.467   3.992 ( 18.662): rd : Inwards, adjacent finger, row jump
+
+  % all   %  left  cumulative
+  1.881   5.535 (  5.535): Sa : Shift-Inwards, adjacent finger, row jump
+  1.579   4.647 ( 10.183): Ma : Shift-Inwards, adjacent finger, row jump
+  1.541   4.534 ( 14.717): Me : Shift-Inwards, row jump
+  1.408   4.145 ( 18.862): De : Shift-Inwards, row jump
+
+  % all   % right  cumulative
+  1.522   7.556 (  7.556): An : Shift-Inwards, adjacent finger, row jump
+  1.402   6.962 ( 14.518): Al : Shift-Inwards, adjacent finger, double row jump
+  1.098   5.451 ( 19.969): Er : Shift-Inwards, row jump
+
+  % all   % 0 h.a. cumulative
+  0.335   4.959 (  4.959): aya : Inwards, row jump + Outwards, row jump (seesaw)
+  0.331   4.906 (  9.865): iye : Same finger repetition, row jump + Outwards, adjacent finger, row jump
+  0.235   3.478 ( 13.342): iyo : Same finger repetition, row jump + Outwards, adjacent finger
+  0.217   3.208 ( 16.550): eki : Outwards, adjacent finger, row jump + Inwards, row jump (seesaw)
+
+  % all   % 2 h.a. cumulative
+  1.361   2.756 (  2.756): lar : indirect Inwards, adjacent finger, row jump
+  1.154   2.336 (  5.092): ler : indirect Inwards, adjacent finger, row jump
+  1.007   2.037 (  7.129): eri : indirect Inwards, adjacent finger
+  0.767   1.552 (  8.681): bir : indirect Outwards, adjacent finger, row jump
+  0.704   1.424 ( 10.105): ara : indirect Double stroke
+  0.607   1.229 ( 11.334): ile : indirect Outwards, adjacent finger
+  0.546   1.106 ( 12.440): lan : indirect Same finger repetition, row jump
+  0.540   1.093 ( 13.533): ¨un : indirect Inwards, adjacent finger
+  0.527   1.066 ( 14.598): ini : indirect Double stroke
+  0.507   1.026 ( 15.625): rin : indirect Outwards, adjacent finger
+
+

@@ -1,0 +1,69 @@
+END              379.158 total effort   196.809 positional effort    left right
+                   5.000 same finger rp   2.113 shift same finger top 18.5 18.2
+  qkouy vdclfj    72.313 hand alternat.  34.449 shift hand alter. mid 24.6 22.5
+  haei, gtrns¨     1.270 inward/outward  22.380 inward or outward bot  5.9 10.3
+   z'.x bpmw      10.639 adjacent        15.757 shift adjacent    sum 49.0 51.0
+                   6.507 no hand altern. 52.650 two hand altern.
+                   3.640 seesaw          10.065 indir same finger
+                  4.6 13.7 17.6 13.1 --.- --.- 20.5 10.4 11.5  8.6 Sh  2.2  1.1
+  same fing/fi.  0.02 2.29 0.05 1.11           0.56 0.24 0.35 0.39 Sh 1.30 0.82
+  " " jump >= 2  0.00 0.12 0.00 0.39           0.16 0.04 0.00 0.01 Sh 0.01 0.16
+  adjacent/fin.pair 0.45 3.30 2.11                3.14 0.72 0.92   Sh11.79 3.97
+  " " row jump >=2  0.01 0.46 0.08                0.10 0.12 0.02   Sh 0.26 2.14
+
+  % all   %  left  cumulative
+  1.177   8.193 (  8.193): ou : Inwards, adjacent finger
+  1.145   7.973 ( 16.165): ko : Inwards, adjacent finger
+
+  % all   % right  cumulative
+  2.098  15.752 ( 15.752): st : Inwards
+
+  % all   %  left  cumulative
+  3.828   7.648 (  7.648): Po : Shift-Inwards, double row jump
+  2.425   4.845 ( 12.493): Na : Shift-Inwards, adjacent finger, row jump
+  2.341   4.677 ( 17.170): Je : Shift-Inwards, row jump
+
+  % all   % right  cumulative
+  0.835   5.389 (  5.389): Kr : Shift-Inwards, row jump
+  0.768   4.953 ( 10.342): Al : Shift-Inwards, adjacent finger, double row jump
+  0.752   4.850 ( 15.192): Br : Shift-Inwards, row jump
+
+  % all   % 0 h.a. cumulative
+  0.281   4.322 (  4.322): str : Inwards + Outwards, adjacent finger (seesaw)
+  0.250   3.836 (  8.158): ako : Same finger repetition, row jump + Inwards, adjacent finger
+  0.246   3.777 ( 11.935): kou : Inwards, adjacent finger + Inwards, adjacent finger
+  0.163   2.513 ( 14.447): oho : Outwards, row jump + Inwards, row jump (seesaw)
+  0.152   2.329 ( 16.776): stn : Inwards + Outwards (seesaw)
+
+  % all   % 2 h.a. cumulative
+  0.533   1.021 (  1.021): ter : indirect Outwards, adjacent finger
+  0.499   0.955 (  1.977): ova : indirect Outwards, adjacent finger, row jump
+  0.426   0.815 (  2.792): kte : indirect Inwards, adjacent finger, row jump
+  0.344   0.660 (  3.452): pod : indirect Same finger repetition, double row jump
+  0.331   0.635 (  4.087): nos : indirect Outwards, adjacent finger
+  0.327   0.627 (  4.713): ech : indirect Outwards
+  0.309   0.592 (  5.305): ale : indirect Inwards, adjacent finger
+  0.288   0.552 (  5.857): ick : indirect Outwards, row jump
+  0.276   0.529 (  6.386): vat : indirect Same finger repetition, row jump
+  0.276   0.529 (  6.915): uje : indirect Outwards, adjacent finger, row jump
+  0.274   0.525 (  7.440): rov : indirect Inwards, adjacent finger, row jump
+  0.270   0.518 (  7.958): rav : indirect Inwards, adjacent finger, row jump
+  0.266   0.509 (  8.467): nov : indirect Inwards, row jump
+  0.264   0.505 (  8.972): byl : indirect Outwards, double row jump
+  0.255   0.488 (  9.460): tel : indirect Outwards, row jump
+  0.250   0.480 (  9.940): jed : indirect Inwards
+  0.245   0.470 ( 10.410): val : indirect Outwards
+  0.232   0.445 ( 10.855): ali : indirect Inwards
+  0.228   0.438 ( 11.293): led : indirect Inwards
+  0.228   0.436 ( 11.729): nej : indirect Outwards, adjacent finger, row jump
+  0.225   0.431 ( 12.160): neb : indirect Inwards, row jump
+  0.225   0.431 ( 12.590): ole : indirect Same finger repetition, row jump
+  0.224   0.429 ( 13.020): lov : indirect Inwards
+  0.216   0.413 ( 13.433): dob : indirect Same finger repetition, double row jump
+  0.206   0.395 ( 13.828): nic : indirect Inwards, adjacent finger, row jump
+  0.205   0.393 ( 14.221): pol : indirect Outwards, double row jump
+  0.203   0.388 ( 14.609): bud : indirect Same finger repetition, double row jump
+  0.202   0.388 ( 14.997): tov : indirect Same finger repetition, row jump
+  0.201   0.386 ( 15.383): sem : indirect Inwards, row jump
+
+
