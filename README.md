@@ -26,7 +26,7 @@ It also marks the final destination of my keyboard layout journey :-)
 
 Can be used with a programmable keyboard or a software solution. To be able to test or directly use the layout with any keyboard (even laptops) I offer a Kanata configuration file. Just extract kanata and the config in the same folder and run kanata. For windows I have a copy of Kanata in the downloads. For macOS and Linux download Kanata from Github.
 
-![image](https://github.com/user-attachments/assets/32747e59-9138-4921-a967-729f4b2cdb99)
+![image](https://github.com/user-attachments/assets/2a076ce6-d0ff-4896-a565-93b9e4176450)
 
 ![image](https://github.com/user-attachments/assets/28d342f0-9352-4ead-ac60-974c9e9c6051)
 
