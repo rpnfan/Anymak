@@ -1,0 +1,273 @@
+#|
+Anymak:END -- the compatible ergonomic keyboard layout with the END multi-lingual alphanumeric layout
+ ⇒ E = English, N = Nederlands, D = Deutsch 
+ END = final destination of my keyboard layout journey as well :-)
+ Umlauts, Trema and accents needed for German and Dutch are easily accesible (only 2 keystrokes needed), 
+    while French and Spanish are also supported as second priority language,
+    accents  ~ ` ^ realized as dead keys on symbol layer (3 key strokes needed).
+  
+ Anymak:END includes two additional non-standard layers:
+   - Navigation layer on the space-key (space-fn), including shortcuts like copy/ paste and
+     easy to reach positions for Enter, Backspace, Delete, Insert and more
+   - an extra character layer for symbols and umlauts and more
+ 
+ To use the layout activate the "US International" keyboard layout in Windows.
+    (Linux and MacOS should work the same, but not tested, let me know if that works without changes).
+
+ Depedencies -- used additional programs, which are in my startup folder on Windows
+  - Clipangel Clipboard manager
+  - Text Expander espanso - jtroo version
+  - Everything search tool (voidtools.com)
+
+
+Version 33                                      2025-02-21
+TODO: siehe Zim Notizen, mouse and number keys
+
+legend:
++ added
+- removed
+~ changed
+
++ added !? \ and Umlaute                         2024-07-22
++ home row mods in bottom row
++ °                                              2024-07-23                         
+! fixed next tab shorcuts                        2024-07-26
+~ no transparent keys on layers XX
++ two space keys for Voyager (or other 4x6 keyboards), by assinging F20 to the left thumb button in Oryx and in Kanata
+    asigning that to spacefn
++ spaceFn-layer: ESC on thumb keys of Voyager, left or right -- both trigger ESC with the other thumb hold down                  
++ Alt-tab as shorcut on layer working with hold alt      2024-07-27
++ space für fn2-layer
+~ lsft set to transparent on navigation layer, to allow marking of text with movements combined              2024-07-28
++ more symbols on fn2-layer, shifted number-row not changed, except =+ swap
++ paste shortcut S-C-v for ClipAngel (on hold)
+! ' was not asigned correctly
++ test combos for Shift and Symbol layer             2024-08-04
++ added layer-while-held example (as combo)          2024-08-18
+~ copy/ paste shortcuts to homerow position        2024-09-08
++ Tab in SpaceFn layer
++ dead key ~ and ^ and ` (3 top left finger)
+- qwerty layer removed - only ENDe layout now
+~ Tab-key to ESC
+- second ESC in SpaceFn layer (top right pinky)    2024-09-09
+~ tap: printScreen on Qwerty-b key (positioned at qwerty left shift position on Voyager)
+~ moved accent ', f, j, and quote and double quote
+~ swapped | and \
+~ one-shot shift replaced with one-shot shift and hold as shift -> results that order of HRM and Shift is not
+    relevant any longer, otherwise HRM would need to be pressed before Shift for mult-key combos (isft = intelligent shift)
+~ mute on row-staggered base layout ]-key
++ umlauts and trema on hold -- as alternative input option for the fn2-layer
+~ ESC on nav-layer with double tap instead single tap (to be safer and not accidently close windows)         2024-11-21
++ CAPSWORD  2025-01-14
+- Shortcut for espanso (Alt+Space) 
+~ SpaceFN tap-time 170 ms (from 200)
+- umlauts and trema on-hold
+~ SpaceFN to tap-hold-release  (saver than tap-hold-press, but still allows super-fast SpaceFN combos)        2024-01-25
+~ SpaceFN tap-timeout = 0, to disable repeating space -- no benefit, but seldomly triggered unwanted
++ on SpaceFN layer: /-key position ⇒ tap: end, hold: Left-Shift; 
+    allows to reverse Tab-action by comfortably holding shift on the right side                               2025-01-26
+~ @ and ° swapped
++ Left-Shift on Fn2 layer  (for upward scrolling with held space)
+~ ' and q swap for END (base layer) layout                                                                    2025-02-21
+
+TODO:
++ paste-shortcut has double-tap to insert text unformatted text (for hotkey Ctrl-Alt-Shift-V assigned in the
+    clipboardmanagener Clipangel)      2024-12-13
+
+|#
+
+;; ======================================= Setup ======================================
+
+(defcfg
+  process-unmapped-keys yes
+  override-release-on-activation yes  ;; needed to remap shifted output 
+  concurrent-tap-hold yes
+)
+
+;; Virtual keys
+(defvirtualkeys alt lalt )  ;; needed for alt-tab work on layer, realized with multi and macro definitions
+
+
+;; Comments are prefixed by double-semicolon. A single semicolon is parsed as the
+;; keyboard key. Comments are ignored for the configuration file.
+
+;; Only one defsrc is allowed.
+;;
+;; defsrc defines the keys that will be intercepted by kanata. The order of the
+;; keys matches with deflayer declarations and all deflayer declarations must
+;; have the same number of keys as defsrc. Any keys not listed in defsrc will
+;; be passed straight to the operating system.
+;; all layout definitions are formatted to reflect the 4 row x 6 columns per hand key positions plus the extra keys an a standard (60 %) keyboard
+(defsrc
+  grv      1  2  3  4  5  6       7  8  9  0  -  =            bspc
+  tab  q  w  e  r  t              y  u  i  o  p  [            ]  \
+  caps a  s  d  f  g              h  j  k  l  ;  '            ret
+  lsft z  x  c  v  b              n  m  ,  .  /  rsft
+  lctl lmet lalt           spc            ralt rmet rctl
+  f20  ;; extra key defined to allow defining (and adressing) two space keys on a split keyboard, like UHK or Voyager and the like
+)
+
+
+
+;; ============================ layers ================================
+
+;; The first layer defined is the layer that will be active by default when
+;; kanata starts up. The ENDe layer remaps the keys to the ENDe layout. In addition there is
+;; another tap-hold key: @cap. This key retains caps lock functionality when
+;; quickly tapped but is read as left-control when held.
+(deflayer ende
+  esc       1  2  3  4  5  6                   7  8  9  0  -  =                                   bspc
+  enter  q  k  o  u  y                      v  d  c  l  f  j                                   mute  del
+  @fn2 h  a  e  i  ,  g                        t  r  n  s  @fn2                              ret
+  @isft  @zwin  @qalt  @.ctrl  x     prtsc     b  @pctrl  @malt  @wwin  @isft  @volmin
+  lctl lmet lalt            @spacefn           ralt rmet rctl
+  @spacefn
+)
+
+(deflayer fn2layer ;; symbols and diacritics
+  XX      @pow1  @pow2  @pow3  @euro  @pounds  @yen            @circonflex  @less  @greater   @tilde  XX XX          XX
+          S-`  XX  S-2  @oe   @ue  @mu                        \  [  ]  '   XX  XX                                   XX  XX 
+          @capsword @ss @ae @etr  @itr  @deg                    /   S-9   S-0   S-=  -  S-8                           XX   ;; right side: / ( ) = - *  and non-transparent Enter
+          lsft  XX  @curlbraceopen @curlbraceclose  XX  XX       @pipe   S-1  S-/ =  S--  XX    ;; right side: | ! ? + _ 
+  XX    XX    XX                    spc                        XX   XX   XX 
+  spc
+)
+
+(deflayer navigation ;; aka space-fn
+  XX      f1  f2  f3  f4  f5  f6                  f7  f8  f9  f10  f11 f12                 XX
+  C-y  C-f   C-w  C-t  C-S-tab  C-tab              menu  pgdn  return  ins  pgup  XX        XX  XX
+  C-z  M-S-f  C-c  @alttab  @paste  C-x           left  down  up  right  bspc  C-bspc      XX       ;; 2nd key: hotkey for Everything search program for Windows (see voidtools.com)
+  _  C-a  tab  A-left  A-right XX                 home  C-left  del  C-right  @end_sft  volu 
+  XX    XX    XX                   esc            XX    XX    XX
+  esc
+) ;; remarks on navigation layer:
+;; lsft is set to transparent to allow marking of words with movement commands like ctrl-right...
+
+;; ================================ keys definitions ==================================
+
+;; ------------------------ test chords ------------------------
+(defchordsv2-experimental
+ ;; (d f)    c                200 all-released  (fn2layer navigation)
+  ;; (a s d) (macro h e l l o) 250 first-release ()
+  ;; (s d f) (macro b y e)     400 first-release ()
+
+;; layer-while held
+;;  (s d) (tap-hold 200 200 XX (layer-while-held layer-3)) 200 first-release ()
+)
+
+;; ------------------------- defalias ---------------------------
+;; defalias is used to declare a shortcut for a more complicated action to keep
+;; the deflayer declarations clean and aligned. The alignment in deflayers is not
+;; necessary, but is strongly recommended for ease of understanding visually.
+;;
+;; Aliases are referred to by `@<aliasXXname>`.
+(defalias
+
+  ;; Navigation and shorcut layer
+  spacefn (tap-hold-release 0 170 spc (multi (layer-while-held navigation) (on-release release-virtualkey alt) )) ;; multi needed for alt-tab on layer
+
+  alttab (macro (on-press press-virtualkey alt) 2 tab) ;; needs a short delay to not trigger tab on the first press - 1 is fine, 5 to be on the safe side
+
+  ;; tap = vol-,  double-tap = mute
+  volmin (tap-dance 170 (voldwn mute)) ;; TODO: space-fn layer with vol+ = volu
+
+  ;; tap = ctrl-v, on-hold: paste via ClipAngel
+  ;; paste (tap-hold 200 200 (tap-dance 200 C-v C-S-A-v) C-S-v) 
+  paste (tap-hold 0 200 C-v C-S-v) 
+;; paste (tap-dance 200 ((tap-hold 200 200 C-v C-S-v)  C-S-A-v ))
+
+
+  ;; esc with double tap (for Space-fn layer on space)
+  -esc (tap-dance 200 (XX esc)) 
+
+  capsword (caps-word 2000)
+
+  ;; paste (tap-hold 200 200 (tap-dance 200 C-v C-S-A-v) C-S-v) 
+  end_sft (tap-hold 0 200 end lsft)  
+
+  ;; -------------------- one-shot keys -----------------------
+  oss (one-shot-press 1000 lsft)    ;; one-shot shift
+  fn2 (one-shot 1000 (layer-while-held fn2layer))     ;; fn2 (extra chars and symbols) layer, as one-shot
+  ;; os1 (one-shot 500 (layer-while-held another-layer))
+  ;; os3 (one-shot-release 2000 lctl)
+  ;; os4 (one-shot-press-pcancel 2000 lalt)
+  ;; os5 (one-shot-release-pcancel 2000 lmet)
+
+    quote (fork 
+    (unicode ')
+    (macro S-' spc) (lsft rsft))
+
+
+;; ---------------------- Home row mods on bottom row  - base layer --------------
+;; ENDe key position in the name, e.g. z-key hold becomes windows → zwin
+  zwin (tap-hold 200 200 z lmet)
+  qalt (tap-hold 200 200 @quote lalt)
+  .ctrl (tap-hold 200 200 . lctl)
+  pctrl (tap-hold 200 200 p rctl)
+  malt (tap-hold 200 200  m lalt)
+  wwin (tap-hold 200 200 w rmet)
+  isft (tap-hold 200 200 @oss lsft) ;; intelli-shift
+  
+)
+
+
+;; ================================ character definitions ==============================
+
+(defalias
+
+   ;; special chars - unicode
+  ss (unicode ß)
+  mu (unicode μ)
+  deg (unicode °)
+  pow1 (unicode ¹)
+  pow2 (unicode ²)
+  pow3 (unicode ³)
+  euro (unicode €)   
+  pounds (unicode £)
+  yen (unicode ¥)
+  circonflex (unicode ^)   
+  ampersand (unicode &)   
+  percent (unicode %)  
+  curlbraceopen (unicode {)   
+  curlbraceclose (unicode })   
+  tilde  (unicode ~)
+  at (unicode @)
+  hashtag (unicode #)
+  pipe (unicode |)
+  less (unicode <)
+  greater (unicode >)
+  doublequote (macro S-' spc)
+
+  ;; Umlaute und Co. -- some sort of Shift layer
+  ae  (fork
+    (unicode ä)
+    (unicode Ä) (lsft rsft))
+  oe  (fork
+    (unicode ö)
+    (unicode Ö) (lsft rsft))
+  ue  (fork
+    (unicode ü)
+    (unicode Ü) (lsft rsft))
+  etr  (fork
+    (unicode ë)
+    (unicode Ë) (lsft rsft))
+  itr  (fork
+    (unicode ï)
+    (unicode Ï ) (lsft rsft))
+  ytr  (fork
+    (unicode ÿ)
+    (unicode Ÿ ) (lsft rsft))
+
+)
+
+;; Swap/ assign some characters, when shifted/ unshifted (from US International layout to the ENDe position)
+(defoverrides
+  (=) (lsft =)  ;; swap = and + (first part)
+  (lsft =) (=)  ;; swap = and + (second part)
+  (lsft ,) (;)  ;; output ; on shifted ,-key (ENDe-position)
+  (lsft .) (lsft ;) ;; output : on shifted .-key (ENDe-positon)
+;;  (lsft 7) (lsft 6) ;; output ^ on shifted 7
+;;  (lsft 8) (lsft 7) ;; output & on shifted 8
+;;  (lsft 9) (lsft 8) ;; output * on shifted 9  - does not work, because of loop to (
+
+)
