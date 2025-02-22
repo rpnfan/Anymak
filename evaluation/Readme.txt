@@ -13,3 +13,5 @@ portugese
 spanish
 swedish
 turkish
+
+You can verify the results or change and add layouts and languages according your own needs or wishes. Use the files in the folder 'test files'.
