@@ -34,7 +34,7 @@ Can be used with a programmable keyboard or a software solution. To be able to t
 # Numerical evaluation
 As you can see below anymak:END is a very balanced layout regarding several criteria. One design goal was to avoid uncomfortable key positions. This results in the lower overall effort than all other layouts. Due less keys being used naturally the number of same-finger-bigrams (SFBs) gets a bit higher on the other side. This is the price to pay for the overall comfort. In my opinion it is worth the price. Especially since the SFBs are not that high. And as important they are largely SFBs of the better type: from strong fingers (index and middle) from the top row back to the home row, where the finger needs to land anyways. This can be nicely seen in the graphics below.
 
-The formatting of the tables in green for good and red for bad is automatically adjusted to each column of the table. The color does not necessarily reflect the practical importance of a parameter, but just serves as a relative reference point inside each comparison group.
+The formatting of the tables in green for 'good' and 'red' for bad is automatically adjusted to each column of the table. The color does not necessarily reflect the practical importance of a parameter, but just serves as a relative reference point inside each comparison group.
 ## English
 ![image](https://github.com/user-attachments/assets/e6c66680-9889-48ae-8a97-bc89f4e4d502)
 ## German
