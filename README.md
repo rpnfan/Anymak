@@ -21,7 +21,7 @@ It also marks the final destination of my keyboard layout journey :-)
      easy to reach positions for Enter, Backspace, Delete, Insert and more
    - an extra character layer for symbols and umlauts and more
  
-Can be used with a programmable keyboard or a software solution. To be able to test or directly use the layout with any keyboard (even laptops) I offer a Kanata configuration file. Just extract kanata (kanata_gui for Windows) and the config in the same folder and run kanata. To use the layout activate the "US International" keyboard layout in Windows. (Linux and MacOS should work the same, but not tested, let me know if that works without changes). For macOS and Linux download Kanata from Github.
+Can be used with a programmable keyboard or a software solution. To be able to test or directly use the layout with any keyboard (even laptops) I offer a Kanata configuration file. Just extract [kanata](https://github.com/jtroo/kanata) (kanata_gui for Windows) and the config file 'kanata.kbd' you download here, in the same folder and run kanata. To use the layout activate the "US International" keyboard layout in Windows. (Linux and MacOS should work the same, but not tested, let me know if that works without changes).
 
 ![image](https://github.com/user-attachments/assets/fd27806e-a105-44d4-948f-085733796e3a)
 
