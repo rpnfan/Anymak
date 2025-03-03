@@ -16,4 +16,6 @@ This folder contains the evaluation results of the AdNW opt analyzer testing bot
 * Swedish
 * Turkish
 
+The numerical evaluations is in the txt files. The graphical evaluations in the Postscript (PS) and the converted PDF files. The file names denote the layout type and language. 'Symmetrical...' in the name means all layouts on a standard keyboard, basically all layouts except anymak:END.
+
 You can verify the results or change and add layouts and languages according your own needs or wishes. Use the files in the folder 'test files'.
