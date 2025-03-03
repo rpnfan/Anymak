@@ -73,9 +73,13 @@ The graphs show that the typing flow is calm, largely on the home row, then on t
 
 ![image](https://github.com/user-attachments/assets/3b6db9cb-1812-464c-aafc-fe0ea4f5a69e)
 
+![image](https://github.com/user-attachments/assets/5d9606f9-29b0-430a-996f-aa1c4b1eb71c)
+
 ![image](https://github.com/user-attachments/assets/5d9c559b-19eb-4c44-8fd9-111545427a4f)
 
 ![image](https://github.com/user-attachments/assets/ab6ea731-0e27-4054-bf09-f6ef24659e6e)
+
+![image](https://github.com/user-attachments/assets/2ab105a0-5a6b-481b-8ace-617766227ab8)
 
 ![image](https://github.com/user-attachments/assets/4685b817-4337-4e59-80b8-836c9f8a2856)
 
