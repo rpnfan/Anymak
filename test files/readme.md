@@ -1,5 +1,7 @@
 This folder contains the files you need to replicate my evaluation results published in the 'evaluation' folder. 
 
+For the evaluations I use the program opt from Andreas Wettstein. Download the source code, his examples and the manual at https://509.ch/opte.htm
+
 # Short instructions how to use the optimizer on Windows, with the supplied binaries.
 
 For a detailed command reference, read the documentation supplied with opt or the copy in this folder named "Anleitung Manual opt.pdf". 
