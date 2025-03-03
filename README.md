@@ -32,15 +32,15 @@ Can be used with a programmable keyboard or a software solution. To be able to t
 ![image](https://github.com/user-attachments/assets/4a2e5386-dffa-4c15-a07b-c6cb917dd96a)
 
 # Numerical evaluation
-
+## English
 ![image](https://github.com/user-attachments/assets/e6c66680-9889-48ae-8a97-bc89f4e4d502)
-
+## German
 ![image](https://github.com/user-attachments/assets/9c9f1338-d214-498f-9a64-49e182100768)
-
+## Dutch
 ![image](https://github.com/user-attachments/assets/66581f02-577d-4837-9144-8bd8fcf341ff)
-
+## Spanish
 ![image](https://github.com/user-attachments/assets/ce2ead3b-0961-4300-b966-ba6e68ecc5ae)
-
+## French
 ![image](https://github.com/user-attachments/assets/6fb36121-1e45-4d50-b36d-65d9f41c2d52)
 
 # Graphical evaluation
