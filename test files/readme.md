@@ -2,7 +2,7 @@ This folder contains the files you need to replicate my evaluation results publi
 
 # Short instructions how to use the optimizer on Windows, with the supplied binaries.
 
-For a detailed command reference, read the documentation supplied with opt. 
+For a detailed command reference, read the documentation supplied with opt or the copy in this folder named "Anleitung Manual opt.pdf". 
 
 The binaries I compiled for Windows and share in this directory are named accordingly the number of keys to be used. 
 
