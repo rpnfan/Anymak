@@ -32,6 +32,9 @@ Can be used with a programmable keyboard or a software solution. To be able to t
 ![image](https://github.com/user-attachments/assets/4a2e5386-dffa-4c15-a07b-c6cb917dd96a)
 
 # Numerical evaluation
+As you can see below anymak:END is a very balanced layout regarding several criteria. One design goal was to avoid uncomfortable key positions. This results in the lower overall effort than all other layouts. Due less keys being used naturally the number of same-finger-bigrams (SFBs) gets a bit higher on the other side. This is the price to pay for the overall comfort. In my opinion it is worth the price. Especially since the SFBs are not that high. And as important they are largely SFBs of the better type: from strong fingers (index and middle) from the top row back to the home row, where the finger needs to land anyways. This can be nicely seen in the graphics below.
+
+The formatting of the tables in green for good and red for bad is automatically adjusted to each column of the table. The color does not necessarily reflect the practical importance of a parameter, but just serves as a relative reference point inside each comparison group.
 ## English
 ![image](https://github.com/user-attachments/assets/e6c66680-9889-48ae-8a97-bc89f4e4d502)
 ## German
@@ -44,6 +47,18 @@ Can be used with a programmable keyboard or a software solution. To be able to t
 ![image](https://github.com/user-attachments/assets/6fb36121-1e45-4d50-b36d-65d9f41c2d52)
 
 # Graphical evaluation
+The graphics not only show the movements of fingers on one hand, but also gives numbers of the frequency of the used keys, row jumps and so on. A line bowed to the top means inward movement of fingers. A line bowed to the bottom represents outward movement. The color coding of the graphic is as follows:
+
+- pink: same finger bigram
+    
+- purple: neighbor finger
+    
+- light blue: finger skip - inwards movement (line to the top, start finger position in lighter color)
+    
+- dark blue: finger skip - outwards movement (line to the bottom)
+
+## anymak:END
+The graphs show that the typing flow is calm, largely on the home row, then on the top row and very few on the bottow row. You see that motions are largely inward rolls and no really ugly finger movements stand out. This is in stark contrast to QWERTY and to a lesser degree also compared to Colemak.
 
 ![image](https://github.com/user-attachments/assets/3b1d9df7-627a-4631-9995-d364c7cda539)
 
@@ -52,6 +67,18 @@ Can be used with a programmable keyboard or a software solution. To be able to t
 ![image](https://github.com/user-attachments/assets/e2ce2194-eca1-4bd8-a3ac-234783f97589)
 
 ![image](https://github.com/user-attachments/assets/421a71c3-28c6-4e07-89e3-76b119f1cbd1)
+
+## Common layouts for comparison
+![image](https://github.com/user-attachments/assets/eacb8f29-38ff-4086-a1ad-085c9288cb4b)
+
+![image](https://github.com/user-attachments/assets/3b6db9cb-1812-464c-aafc-fe0ea4f5a69e)
+
+![image](https://github.com/user-attachments/assets/5d9c559b-19eb-4c44-8fd9-111545427a4f)
+
+![image](https://github.com/user-attachments/assets/ab6ea731-0e27-4054-bf09-f6ef24659e6e)
+
+![image](https://github.com/user-attachments/assets/4685b817-4337-4e59-80b8-836c9f8a2856)
+
 
 For more languages and layout comparisons download or clone the repo.
 
