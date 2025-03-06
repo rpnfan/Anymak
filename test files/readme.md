@@ -82,3 +82,11 @@ Size and position of the text is defined in the preample of the file:
 ------------
 
 Note: You can adjust the config files according to your needs. See the documentation of opt.
+
+# The key weightings
+![image](https://github.com/user-attachments/assets/0bc0031d-10be-4fcf-bdcf-5e1b5579baee)
+
+![image](https://github.com/user-attachments/assets/52b4be0b-9681-49e0-b92b-88a843421907)
+
+
+
