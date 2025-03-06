@@ -88,6 +88,7 @@ For more languages and layout comparisons download or clone the repo.
 
 
 # Star History
+Was it worth not only to develop the layout for myself but spent many days to document my approach and trying to make it accessible for others. You decide. Leaving a short "thanks" or starring the project will give me some feedbak. :)
 
 [![Star History Chart](https://api.star-history.com/svg?repos=rpnfan/Anymak&type=Date)](https://star-history.com/#rpnfan/Anymak&Date)
 
