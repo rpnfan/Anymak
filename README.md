@@ -87,10 +87,9 @@ The graphs show that the typing flow is calm, largely on the home row, then on t
 For more languages and layout comparisons download or clone the repo.
 
 
+# Star History
 
-
-
-
+[![Star History Chart](https://api.star-history.com/svg?repos=rpnfan/Anymak&type=Date)](https://star-history.com/#rpnfan/Anymak&Date)
 
 
 
