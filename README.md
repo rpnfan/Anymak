@@ -1,7 +1,8 @@
 ![image](https://github.com/user-attachments/assets/51167072-4cf3-46ca-9ce0-8ef2ded2a911)
 
 Testdrive [**anymak:END**](https://keyboard-layout-try-out.pages.dev/?l0r0=q+w+e+r+t++y+u+i+o+p&l0r1=a+s+d+f+g++h+j+k+l+%3B+%27&l0r2=z+x+c+v+b++n+m+%2C+.+%2F&l1r0=q+k+o+u+y++v+d+c+l+f+&l1r1=h+a+e+i+%2C++g+t+r+n+s+j&l1r2=%2F+z+%27+.+x++b+p+m+w+%3B&z=z) here for QWERTY useers! :-)
-Probiere [**anymak:END**](https://keyboard-layout-try-out.pages.dev/?l0r0=q+w+e+r+t++y+u+i+o+p&l0r1=a+s+d+f+g++h+j+k+l+%3B+%27&l0r2=z+x+c+v+b++n+m+%2C+.+%2F&l1r0=q+k+o+u+y++v+d+c+l+f+&l1r1=h+a+e+i+%2C++g+t+r+n+s+j&l1r2=%2F+z+%27+.+x++b+p+m+w+%3B&z=z) als QWERTZ-Tipper! :-)
+
+Probiere [**anymak:END**](https://keyboard-layout-try-out.pages.dev/?l0r0=q+w+e+r+t++z+u+i+o+p+ü&l0r1=a+s+d+f+g++h+j+k+l+ö+ä&l0r2=z+x+c+v+b++n+m+%2C+.+-&l1r0=q+k+o+u+y++v+d+c+l+f+j&l1r1=h+a+e+i+%2C++g+t+r+n+s+&l1r2=%2F+z+%27+.+x++b+p+m+w+%3B&z=z) als QWERTZ-Tipper! :-)
  
 *Anymak* is a keyboard layout approach designed to largely enhance typing comfort. By  rearranging keys, and utilizing one-shot modifiers and bottom-row mods, *Anymak* makes it easier to access common keys like Shift, symbols and navigation shortcuts, while minimizing finger stretching. It maintains consistent key positions across both standard and ergonomic split keyboards. As a versatile keymap approach, *Anymak* is compatible with various layouts, allowing you to continue using QWERTY, Colemak, or any other layout you prefer. I myself use the *Anymak* concept with a fully optimized multi-language character layout, specifically designed for English, German, Dutch, and other European languages.  It is named anymak:END and probably also the last layout you might need.
 
