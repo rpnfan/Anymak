@@ -29,11 +29,11 @@ It also marks the final destination of my keyboard layout journey :-)
  
 Can be used with a programmable keyboard or a software solution. To be able to test or directly use the layout with any keyboard (even laptops) I offer a Kanata configuration file. Just extract [kanata](https://github.com/jtroo/kanata) (kanata_gui for Windows) and the config file 'kanata.kbd' you download here, in the same folder and run kanata. To use the layout activate the "US International" keyboard layout in Windows. (Linux and MacOS should work the same, but not tested, let me know if that works without changes).
 
-![image](https://github.com/user-attachments/assets/fd27806e-a105-44d4-948f-085733796e3a)
+![image](https://github.com/user-attachments/assets/7c6a03a9-2f24-4b0a-9ea6-c7fa49fddeb4)
 
-![image](https://github.com/user-attachments/assets/d7c938df-1e2e-47cc-9aa1-de2c5e692fb6)
+![image](https://github.com/user-attachments/assets/039c9343-7318-4a0e-b5c0-99b962902e89)
 
-![image](https://github.com/user-attachments/assets/48e62816-5e3c-4a58-9693-42871e4f8a37)
+![image](https://github.com/user-attachments/assets/155a3021-b209-4422-9df6-600055914241)
 
 ![image](https://github.com/user-attachments/assets/4a2e5386-dffa-4c15-a07b-c6cb917dd96a)
 
