@@ -20,7 +20,7 @@ Anymak:END -- the compatible ergonomic keyboard layout with the END multi-lingua
   - Everything search tool (voidtools.com)
 
 
-Version 36                                      2025-03-01
+Version 38                                      2025-03-09
 TODO: siehe Zim Notizen, mouse and number keys
 
 legend:
@@ -72,6 +72,10 @@ legend:
 ~ umlauts and ß in new positions, optimized for hand alternation and one-hand rolls                           2025-02-28
 ~ moved CAPSWORD to new position                                                                              2025-03-01
 + diacritics for French and Spanish on the symbol layer (circonflex ^ is already on the Shift layer)
+~ disabled override-release-on-activation to allow autorepeat for devoverrides (shift override remapping)     2025-03-07
+~ changed some symbol positions on shifted numbers, now possible with Kanata 1.8                                                 
++ added shift-layer to define some shift-overrides, which were not possible via defoverrides                  2025-03-09
+
 
 TODO:
 + paste-shortcut has double-tap to insert text unformatted text (for hotkey Ctrl-Alt-Shift-V assigned in the
@@ -83,12 +87,12 @@ TODO:
 
 (defcfg
   process-unmapped-keys yes
-  override-release-on-activation yes  ;; needed to remap shifted output 
-  concurrent-tap-hold yes
+  ;; override-release-on-activation yes  ;; was needed to remap shifted output, prior to Kanata 1.8, but had the problem that autorepeat did not work then for those keys.
+  concurrent-tap-hold yes ;; needed for Combos to work
 )
 
 ;; Virtual keys
-(defvirtualkeys alt lalt )  ;; needed for alt-tab work on layer, realized with multi and macro definitions
+(defvirtualkeys alt lalt )  ;; needed for alt-tab to work on layer, realized with multi and macro definitions
 
 
 ;; Comments are prefixed by double-semicolon. A single semicolon is parsed as the
@@ -110,8 +114,6 @@ TODO:
   f20  ;; extra key defined to allow defining (and adressing) two space keys on a split keyboard, like UHK or Voyager and the like
 )
 
-
-
 ;; ============================ layers ================================
 
 ;; The first layer defined is the layer that will be active by default when
@@ -119,18 +121,27 @@ TODO:
 ;; another tap-hold key: @cap. This key retains caps lock functionality when
 ;; quickly tapped but is read as left-control when held.
 (deflayer ende
-  esc       1  2  3  4  5  6                   7  8  9  0  -  =                                   bspc
-  esc  q  k  o  u  y                      v  d  c  l  f  j                                   mute  del
-  @fn2 h  a  e  i  ,  g                        t  r  n  s  @fn2                              ret
+  esc       1  2  3  4  5  6              7  8  9  0  -  =         bspc
+  esc  q  k  o  u  y                      v  d  c  l  f  j         mute  del
+  @fn2 h  a  e  i  ,  g                   t  r  n  s  @fn2         ret
   @isft  @zwin  @aalt  @.ctrl  x     prtsc     b  @pctrl  @malt  @wwin  @isft  @volmin
   lctl lmet lalt            @spacefn           ralt rmet rctl
   @spacefn
 )
 
+(deflayer shifted  ;; mostly a copy of base layer, except S-7 and S-0 redefined (circonflex and tilde as character, not dead key) - shift override part 1
+  esc       1  2  3  4  5  6              @circonflex  8  9  @tilde  -  =         bspc
+  esc  q  k  o  u  y                      v  d  c  l  f  j                   mute  del
+  @fn2 h  a  e  i  ,  g         t  r  n  s  @fn2         ret
+  @isft  @zwin  @aalt @.ctrl  x       prtsc     b  @pctrl  @malt  @wwin  @isft  @volmin
+  lctl lmet lalt            @spacefn           ralt rmet rctl
+  @spacefn
+)
+
 (deflayer fn2layer ;; symbols and diacritics
-  XX      @pow1  @pow2  @pow3  @euro  @pounds  @yen            @circonflex  @less  @greater   @tilde  S-grv XX        XX
+  XX      @pow1  @pow2  @pow3  @euro  @pounds  @yen            S-6  @less  @greater S-grv XX  XX                       XX
           S-`  @capsword  S-2  @oe   @mu  @deg                 \  [  ]  '   grv  @ced                                 XX  XX 
-          XX @etr @itr @ae  @ue  @ss                    /   S-9   S-0   S-=  -  S-8                           XX   ;; right side: / ( ) = - *  and non-transparent Enter
+          XX @etr @itr @ae  @ue  @ss                    /   RS-9   S-0   S-=  -  S-8                           XX   ;; right side: / ( ) = - *  and non-transparent Enter
           lsft  XX  @curlbraceopen @curlbraceclose  XX  XX       @pipe   S-1  S-/ =  S--  XX    ;; right side: | ! ? + _ 
   XX    XX    XX                    spc                        XX   XX   XX 
   spc
@@ -149,7 +160,7 @@ TODO:
 ;; ================================ keys definitions ==================================
 
 ;; ------------------------ test chords ------------------------
-(defchordsv2-experimental
+(defchordsv2
  ;; (d f)    c                200 all-released  (fn2layer navigation)
   ;; (a s d) (macro h e l l o) 250 first-release ()
   ;; (s d f) (macro b y e)     400 first-release ()
@@ -186,10 +197,15 @@ TODO:
   capsword (caps-word 2000)
 
   ;; paste (tap-hold 200 200 (tap-dance 200 C-v C-S-A-v) C-S-v) 
+
+  ;; bottom-row mod on the navigation layer for the end-key (right pinky bottom row), to work also as Shift when held
   end_sft (tap-hold 0 200 end lsft)  
 
   ;; -------------------- one-shot keys -----------------------
-  oss (one-shot-press 1000 lsft)    ;; one-shot shift
+  ;; oss (one-shot-press 1000 lsft)    ;; one-shot shift -- old standard version
+
+  oss (multi (one-shot 1000 (layer-while-held shifted)) (one-shot 1000 lsft)) ;; updated one-shot shift which makes use of the 'shifted' layer, allowing to override shifted keys in a specific place!
+
   fn2 (one-shot 1000 (layer-while-held fn2layer))     ;; fn2 (extra chars and symbols) layer, as one-shot
   ;; os1 (one-shot 500 (layer-while-held another-layer))
   ;; os3 (one-shot-release 2000 lctl)
@@ -205,11 +221,12 @@ TODO:
 ;; ENDe key position in the name, e.g. z-key hold becomes windows → zwin
   zwin (tap-hold 200 200 z lmet)
   aalt (tap-hold 200 200 @quote lalt) ;; apostrophe-key, held alt
-  .ctrl (tap-hold 200 200 . lctl)
+  .ctrl (tap-hold 200 200 . lctl) 
   pctrl (tap-hold 200 200 p rctl)
   malt (tap-hold 200 200  m lalt)
   wwin (tap-hold 200 200 w rmet)
-  isft (tap-hold 200 200 @oss lsft) ;; intelli-shift
+  isft (tap-hold 200 200 @oss @oss) ;; intelli-shift, to make sure that it not relevant which of the bottom-row mod keys is held first, 
+                                    ;; without you would need always to hold the shift-key first for modifier combos including shift.
   
 )
 
@@ -241,7 +258,7 @@ TODO:
   greater (unicode >)
   doublequote (macro S-' spc)
 
-  ;; Umlaute und Co. -- some sort of Shift layer
+  ;; Umlaute und Co. -- to be put on a layer, with definition what to do when the key was shifted before - shift override part 2
   ae  (fork
     (unicode ä)
     (unicode Ä) (lsft rsft))
@@ -260,14 +277,13 @@ TODO:
  
 )
 
-;; Swap/ assign some characters, when shifted/ unshifted (from US International layout to the ENDe position)
+;; Swap/ assign some characters, when shifted/ unshifted (from US International layout to the ENDe position) - shift-override part 3
+;; using only left-shift here and as the switch in all layers, so I can use right-shift to still access the original function of a key, without unwanted recursion of the defoverride
 (defoverrides
   (=) (lsft =)  ;; swap = and + (first part)
   (lsft =) (=)  ;; swap = and + (second part)
-  (lsft ,) (;)  ;; output ; on shifted ,-key (ENDe-position)
   (lsft .) (lsft ;) ;; output : on shifted .-key (ENDe-positon)
-;;  (lsft 7) (lsft 6) ;; output ^ on shifted 7
-;;  (lsft 8) (lsft 7) ;; output & on shifted 8
-;;  (lsft 9) (lsft 8) ;; output * on shifted 9  - does not work, because of loop to (
-
-)
+  (lsft ,) (;)  ;; output ; on shifted ,-key (ENDe-position) 
+  (lsft 8) (lsft 7) ;; output & on the shifted 8-key (looks similar, easy to remember)
+  (lsft 9) (lsft 8) ;; output * on the shifted 9-key, on the symbol layer RS-9 is used instead of just R-9 to access the open bracket ( without a circular refernce to wrongly output *
+ )
