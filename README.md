@@ -8,9 +8,13 @@ Probiere [**anymak:END**](https://keyboard-layout-try-out.pages.dev/?l0r0=q+w+e+
 
 The Anymak concept can be applied to any alphanumeric or language layout. A ready-to-run software implementation in Kanata for anymak:END can be downloaded here and works on Windows, Linux and macOS.
 
-Read the [detailed article](https://kbd.news/Anymak-the-compatible-ergonomic-keyboard-layout-2574.html) about the general Anymak layer(-less) concept. Another [in-depth article](https://kbd.news/END-my-final-keyboard-layout-2609.html) explains how I developed the alphanumeric layout and how you can optimize a layout yourself to customize it to different languages or your personal wishes.
+I have published a three part series about my thoughts on keyboard layouts.
+1) [Introduction with general remarks about approaching a comfortable keyboard layout](https://kbd.news/A-r-evolutionary-approach-to-improve-on-the-standard-keyboard-layout-2559.html)
+2) [Anymak -- the concept for a layerless and compatible key-arrangement](https://kbd.news/Anymak-the-compatible-ergonomic-keyboard-layout-2574.html)
+3) [The anymak:END alphanumeric multi-language layout](https://kbd.news/END-my-final-keyboard-layout-2609.html) The last artcile explains how I developed the alphanumeric layout and how you can optimize a layout yourself to customize it to different languages or your personal wishes.
 
-This will likely help you to choose or create your own personal "best" solution.
+
+These articles will likely help you to choose or create your own personal "best" solution.
 
 # anymak:END — multi-lingual keyboard layout
 END stands for ⇒ E = English, N = Nederlands, D = Deutsch
