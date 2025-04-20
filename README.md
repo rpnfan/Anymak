@@ -96,6 +96,10 @@ The graphs show that the typing flow is calm, largely on the home row, then on t
 
 For more languages and layout comparisons download or clone the repo.
 
+# Layout evaluation for 20 layouts and 14 languages
+In the evaluation folder you find the detailed numerical and grahpical evalutionsa for many common or popular layouts. Besides anymak:END you will find evaluations for: AdNW, BEAKL, Bone, Canary, Colemak, Colemak-DH, Dvorak, Engram, Focal, Gallium, Graphite, Hands-Down-Neu, KOU, KOY, Middlemak-NH, Neo, Noted, QWERTY and QWERTZ, and Sturdy.
+
+Each layout is tested for these languages: Czech, Danish, Dutch, English, Finnish, French, German, Hungarian, Italian, Polish, Portuguese, Spanish, Swedish and Turkish. Read the documentation in the evaluation folder and the third article (about anymak:END) on kbd.news.
 
 # Star History
 Was it worth not only to develop the layout for myself but spending many hours and days to document my approach and trying to make it accessible for others? You decide. Leaving a short "thanks" or starring the project will give me some feedbak. :)
