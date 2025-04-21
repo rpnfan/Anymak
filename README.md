@@ -35,7 +35,7 @@ Can be used with a programmable keyboard or a software solution. To be able to t
 
 ![image](https://github.com/user-attachments/assets/7c6a03a9-2f24-4b0a-9ea6-c7fa49fddeb4)
 
-![image](https://github.com/user-attachments/assets/039c9343-7318-4a0e-b5c0-99b962902e89)
+![image](https://github.com/user-attachments/assets/00decf95-202d-4a7b-ac61-3b326a359a00)
 
 ![image](https://github.com/user-attachments/assets/155a3021-b209-4422-9df6-600055914241)
 
