@@ -44,6 +44,21 @@ Testdrive [**anymak:END**](https://keyboard-layout-try-out.pages.dev/?l0r0=q+w+e
 
 Probiere [**anymak:END**](https://keyboard-layout-try-out.pages.dev/?l0r0=q+w+e+r+t++z+u+i+o+p+ü&l0r1=a+s+d+f+g++h+j+k+l+ö+ä&l0r2=z+x+c+v+b++n+m+%2C+.+-&l1r0=q+k+o+u+y++v+d+c+l+f+j&l1r1=h+a+e+i+%2C++g+t+r+n+s+&l1r2=%2F+z+%27+.+x++b+p+m+w+%3B&z=z) als QWERTZ-Tipper! :-)
 
+
+# Practical implementation options
+The layout can be realized by either one of the options below or a combination thereof: 
+1. Keyboard (Language) setting in the Operating System
+2. Programmable keyboard mapped to the relevant keys and functions (QMK, ZMK, Via, Vial, UHK...)
+3. Software key-remapping (Kanata, Autohotkey, ...)
+
+Because I want to use the layout not only on my desktop computer, but also when using my laptop with Windows or Linux I personally use the combination of 1. Keyboard setting to "US International" and 3. the Kanata script available here. This is the recommended approach for most. 
+
+If you are strictly using an external keyboard option 2 might be the best. In the beginning I used the UHK60 keyboard with its remapping software, which was an easy and quick way to develop the layout and make changes as needed.
+
+## Potential Cons of using Kanata
+Setting up the Kanata file takes more knowledge (time and reading). But after the script is in place it actually is faster and easier to update then many other options. When you decide to use the anymak:END layout as is, the configuration work is done for you and you just need to download Kanata and place the 'kanata.kbd' file in the same folder and run Kanata. On Windows another downside is that Kanata is not as deeply integrated and some applications might not recognize the remapped keys. This is very seldom a problem in daily use, but especially when defining hotkeys in Windows programs they often check the scan code (key position) and do not get the remapped key code. Interestingly most programs recognize the remapped hotkeys fine, when the program is used. Just the input field to define the hotkey behaves differently. A workaround can be to deactivate Kanata to define the hotkeys and then turn it back on. Finally when Kanata needs to work in a Windows Terminal with admin rights, Kanata needs to run with admin rights as well. 
+
+
 # Numerical evaluation
 As you can see below anymak:END is a very balanced layout regarding several criteria. One design goal was to avoid uncomfortable key positions. This results in the lower overall effort than all other layouts. Due less keys being used naturally the number of same-finger-bigrams (SFBs) gets a bit higher on the other side. This is the price to pay for the overall comfort. In my opinion it is worth the price. Especially since the SFBs are not that high. And as important they are largely SFBs of the better type: from strong fingers (index and middle) from the top row back to the home row, where the finger needs to land anyways. This can be nicely seen in the graphics below.
 
