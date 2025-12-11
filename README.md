@@ -122,7 +122,7 @@ In the evaluation folder you find the detailed numerical and grahpical evalution
 Each layout is tested for these languages: Czech, Danish, Dutch, English, Finnish, French, German, Hungarian, Italian, Polish, Portuguese, Spanish, Swedish and Turkish. Read the documentation in the evaluation folder and the third article (about anymak:END) on kbd.news.
 
 # Star History
-Was it worth not only to develop the layout for myself but spending many hours and days to document my approach and trying to make it accessible for others? You decide. Leaving a short "thanks" or starring the project will give me some feedback. :)
+Was it worth not only to develop the layout for myself but spending many hours and days to document my approach and trying to make it accessible for others? Leaving a short "thanks" or starring the project will give me some feedback. :)
 
 [![Star History Chart](https://api.star-history.com/svg?repos=rpnfan/Anymak&type=Date)](https://star-history.com/#rpnfan/Anymak&Date)
 
