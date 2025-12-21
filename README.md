@@ -119,7 +119,7 @@ For more languages and layout comparisons download or clone the repo.
 # Layout evaluation for 20 layouts and 14 languages
 In the evaluation folder you find the detailed numerical and grahpical evalutionsa for many common or popular layouts. Besides anymak:END you will find evaluations for: AdNW, BEAKL, Bone, Canary, Colemak, Colemak-DH, Dvorak, Engram, Focal, Gallium, Graphite, Hands-Down-Neu, KOU, KOY, Middlemak-NH, Neo, Noted, QWERTY and QWERTZ, and Sturdy.
 
-Each layout is tested for these languages: Czech, Danish, Dutch, English, Finnish, French, German, Hungarian, Italian, Polish, Portuguese, Spanish, Swedish and Turkish. Read the documentation in the evaluation folder and the third article (about anymak:END) on kbd.news.
+Each layout is tested for these languages: Czech, Danish, Dutch, English, Finnish, French, German, Hungarian, Italian, Polish, Portuguese, Spanish, Swedish and Turkish. Read the documentation in the evaluation folder and [this article](https://kbd.news/END-my-final-keyboard-layout-2609.html) on kbd.news.
 
 # Star History
 Please star this project if it helped you! Your feedback shows me how many people benefit from these resources, which motivates me making keyboard layout optimization accessible to everyone. :-)
