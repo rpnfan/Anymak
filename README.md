@@ -26,8 +26,10 @@ It also marks the final destination of my keyboard layout journey :-)
    - Navigation layer on the space-key (space-fn concept), including shortcuts like copy/ paste and
      easy to reach positions for Enter, Backspace, Delete, Insert and more
    - an extra character layer for symbols and umlauts and more
- 
-Can be used with a programmable keyboard or a software solution. To be able to test or directly use the layout with any keyboard (even laptops) I offer a Kanata configuration file. Just extract [kanata](https://github.com/jtroo/kanata) (kanata_gui for Windows) and the config file 'kanata.kbd' you download here, in the same folder and run kanata. To use the layout activate the "US International" keyboard layout in Windows. Similar on Linux (tested) and macOS (untested by me, but should work similar).
+
+A major advantage is that you can use any type of keyboard with anymak:END. The first graphic shows the base layer on a standard ANSI / ISO keyboad and which fingers to use. For better readability the remaining graphics are shown for a split symmetrical keyboard. 
+
+<img width="2427" height="1059" alt="image" src="https://github.com/user-attachments/assets/9ddd366e-0506-486d-bb3f-ab2e6ece3dfd" />
 
 ![image](https://github.com/user-attachments/assets/7c6a03a9-2f24-4b0a-9ea6-c7fa49fddeb4)
 
@@ -46,7 +48,9 @@ Probiere [**anymak:END**](https://keyboard-layout-try-out.pages.dev/?l0r0=q+w+e+
 
 
 # Practical implementation options
-The layout can be realized by either one of the options below or a combination thereof: 
+Can be used with a programmable keyboard or a software solution. To be able to test or directly use the layout with any keyboard (even laptops) I offer a Kanata configuration file. Just extract [kanata](https://github.com/jtroo/kanata) (kanata_gui for Windows) and the config file 'kanata.kbd' you download here, in the same folder and run kanata. To use the layout activate the "US International" keyboard layout in Windows. Similar on Linux (tested) and macOS (untested by me, but should work similar).
+
+In general the layout can be realized by either one of the options below or a combination thereof: 
 1. Keyboard (Language) setting in the Operating System
 2. Programmable keyboard mapped to the relevant keys and functions (QMK, ZMK, Via, Vial, UHK...)
 3. Software key-remapping (Kanata, Autohotkey, ...)
