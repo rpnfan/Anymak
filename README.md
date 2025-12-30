@@ -27,7 +27,7 @@ It also marks the final destination of my keyboard layout journey :-)
      easy to reach positions for Enter, Backspace, Delete, Insert and more
    - an extra character layer for symbols and umlauts and more
 
-A major advantage is that you can use any type of keyboard with anymak:END. The first graphic shows the base layer on a standard ANSI / ISO keyboad and which fingers to use. For better readability the remaining graphics are shown for a split symmetrical keyboard. 
+A major advantage is that you can use any type of keyboard with anymak:END. The following graphic shows the base layer on a standard ANSI / ISO keyboad and which fingers to use. For better readability the remaining graphics are shown for a split symmetrical keyboard, but can be applied regardless of what keyboard you use.
 
 <img width="2427" height="1059" alt="image" src="https://github.com/user-attachments/assets/9ddd366e-0506-486d-bb3f-ab2e6ece3dfd" />
 
