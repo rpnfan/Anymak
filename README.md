@@ -1,8 +1,6 @@
 ![image](https://github.com/user-attachments/assets/51167072-4cf3-46ca-9ce0-8ef2ded2a911)
  
-*Anymak* is a keyboard layout approach designed to largely enhance typing comfort. By  rearranging keys, and utilizing one-shot modifiers and bottom-row mods, *Anymak* makes it easier to access common keys like Shift, symbols and navigation shortcuts, while minimizing finger stretching. It maintains consistent key positions across both standard and ergonomic split keyboards. As a versatile keymap approach, *Anymak* is compatible with various layouts, allowing you to continue using QWERTY, Colemak, or any other layout you prefer. I myself use the *Anymak* concept with a fully optimized multi-language character layout, specifically designed for English, German, Dutch, and other European languages.  It is named anymak:END and probably also the last layout you might need.
-
-The Anymak concept can be applied to any alphanumeric or language layout. A ready-to-run software implementation in Kanata for anymak:END can be downloaded here and works on Windows, Linux and macOS.
+*Anymak* is a keyboard layout approach designed to largely enhance typing comfort. By  rearranging keys, and utilizing one-shot modifiers and bottom-row mods, *Anymak* makes it easier to access common keys like Shift, symbols and navigation shortcuts, while minimizing finger stretching. It maintains consistent key positions across both standard and ergonomic split keyboards. As a versatile keymap approach, *Anymak* is compatible with various layouts, allowing you to continue using QWERTY, Colemak, or any other layout you prefer. I myself use the *Anymak* concept with a fully optimized multi-language character layout, specifically designed for English, German, Dutch, and other European languages.  It is named anymak:END and probably also the last layout you might need. A ready-to-run software implementation in Kanata for anymak:END can be downloaded here and works on Windows, Linux and macOS.
 
 I have published a three part series about my thoughts on keyboard layouts.
 1) [Introduction with general remarks about approaching a comfortable keyboard layout](https://kbd.news/A-r-evolutionary-approach-to-improve-on-the-standard-keyboard-layout-2559.html)
@@ -27,9 +25,11 @@ It also marks the final destination of my keyboard layout journey :-)
      easy to reach positions for Enter, Backspace, Delete, Insert and more
    - an extra character layer for symbols and umlauts and more
 
-A major advantage is that you can use any type of keyboard with anymak:END. The following graphic shows the base layer on a standard ANSI / ISO keyboad and which fingers to use. For better readability the remaining graphics are shown for a split symmetrical keyboard, but can be applied regardless of what keyboard you use.
+A major advantage is that you can use any type of keyboard with anymak:END. The following graphic shows the base layer on a standard ANSI / ISO keyboad and which fingers to use. Note that the bottom left is symmetrical to the right. This is important for the ergonomic use of a standard keyboard. 
 
-<img width="2427" height="1059" alt="image" src="https://github.com/user-attachments/assets/9ddd366e-0506-486d-bb3f-ab2e6ece3dfd" />
+<img width="2537" height="1224" alt="image" src="https://github.com/user-attachments/assets/1b904a7f-7508-4440-aa5d-e05860e18174" />
+
+For better readability the complete layout is presented in the following for a split symmetrical keyboard. But all layers are applied to an ANSI/ ISO keyboard in exactly the same way. Use the above image as a reference which finger to use for those traditional keyboards.
 
 ![image](https://github.com/user-attachments/assets/7c6a03a9-2f24-4b0a-9ea6-c7fa49fddeb4)
 
