@@ -25,9 +25,9 @@ It also marks the final destination of my keyboard layout journey :-)
      easy to reach positions for Enter, Backspace, Delete, Insert and more
    - an extra character layer for symbols and umlauts and more
 
-A major advantage is that you can use any type of keyboard with anymak:END. The following graphic shows the base layer on a standard ANSI / ISO keyboad and which fingers to use. Note that the bottom left is symmetrical to the right. This is important for the ergonomic use of a standard keyboard. 
+A major advantage is that you can use any type of keyboard with anymak:END. The following graphic shows the base layer on a standard ANSI / ISO keyboad and which fingers to use. Note that the bottom left is symmetrical to the right. This is important for the ergonomic use of a standard keyboard. The B-key position (in QWERTY) is not easy to reach with a symmetrical hand position. This key-position on an ANSI/ ISO keyboard is not used for the layout itself therefore.
 
-<img width="2537" height="1224" alt="image" src="https://github.com/user-attachments/assets/1b904a7f-7508-4440-aa5d-e05860e18174" />
+<img width="2332" height="1082" alt="image" src="https://github.com/user-attachments/assets/d051405b-d941-4ace-877c-84e794864eb5" />
 
 For better readability the complete layout is presented in the following for a split symmetrical keyboard. But all layers are applied to an ANSI/ ISO keyboard in exactly the same way. Use the above image as a reference which finger to use for those traditional keyboards.
 
