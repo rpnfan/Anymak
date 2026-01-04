@@ -29,7 +29,7 @@ A major advantage is that you can use any type of keyboard with anymak:END. The 
 
 <img width="2332" height="1082" alt="image" src="https://github.com/user-attachments/assets/d051405b-d941-4ace-877c-84e794864eb5" />
 
-For better readability the complete layout is presented in the following for a split symmetrical keyboard. But all layers are applied to an ANSI/ ISO keyboard in exactly the same way. Use the above image as a reference which finger to use for those traditional keyboards.
+For better readability the complete layout is presented in the following for a split symmetrical keyboard. But all layers are applied to an ANSI/ ISO keyboard in exactly the same way. Use the above image as a reference which finger to use for traditional keyboards.
 
 ![image](https://github.com/user-attachments/assets/7c6a03a9-2f24-4b0a-9ea6-c7fa49fddeb4)
 
