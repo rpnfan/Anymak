@@ -6,7 +6,7 @@ Anymak is a versatile concept, compatible to be adapted to any alphanumeric layo
 
 ## What Makes Anymak Different
 
-Most alternative keyboard layouts — and most layer schemes — solve only part of the problem how to optimize the keyboard experience. They optimize the alpha keys but treat Shift as an afterthought and ignore how symbols are accessed. Often they require a specific key count or thumb arrangement. This most often results in forcing different finger positions when switching between a split ergonomic keyboard and a laptop. Or they used timed methods such as auto-shift, which is convenient but disrupts the typing flow. Last not least they mostly do not take navigation and modifier keys into account. Anymak addresses all of these as a unified system with a small number of targeted changes to any existing alphanumeric layout.
+Most alternative keyboard layouts — and most layer schemes — solve only part of the problem how to optimize the keyboard experience. They optimize the alpha keys but treat Shift as an afterthought and ignore how symbols are accessed. Often they require a specific key count or thumb arrangement. This most often results in forcing different finger positions when switching between a split ergonomic keyboard and a laptop. Or they use timed methods such as auto-shift, which is convenient but disrupts the typing flow. Last not least they mostly do not take navigation and modifier keys into account. Anymak addresses all of these as a unified system with a small number of targeted changes to any existing alphanumeric layout.
 
 - **No held modifiers for text input**
   
