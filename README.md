@@ -158,7 +158,7 @@ The Kanata config file is commented and should allow you to make adaptions accor
 Setting up the Kanata file takes more knowledge (time and reading). But after the script is in place it actually is faster and easier to update then many other options. When you decide to use the anymak:END layout as is, the configuration work is done for you and you just need to download Kanata and place the 'kanata.kbd' file in the same folder and run Kanata. On Windows another downside is that Kanata is not as deeply integrated and some applications might not recognize the remapped keys. This is very seldom a problem in daily use, but especially when defining hotkeys in Windows programs they often check the scan code (key position) and do not get the remapped key code. Interestingly most programs recognize the remapped hotkeys fine, when the program is used. Just the input field to define the hotkey behaves differently. A workaround can be to deactivate Kanata to define the hotkeys and then turn it back on. Finally when Kanata needs to work in a Windows Terminal with admin rights, Kanata needs to run with admin rights as well. 
 
 # Resources
-I have published three articles on kbd.news which go into much more detail why I went to search for "the keyboard solution" and what I found I found was missing and how I finally developed anymak:END. 
+I have published three articles on kbd.news which go into much more detail why I went to search for "the keyboard solution" and what I found was missing and how I finally developed anymak:END. 
 
 [A r-evolutionary approach to improve on the standard keyboard layout](https://kbd.news/A-r-evolutionary-approach-to-improve-on-the-standard-keyboard-layout-2559.html)
 
