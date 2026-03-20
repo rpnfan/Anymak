@@ -38,7 +38,7 @@ There is a cool website which allows you to mimic a new layout by "translating" 
 
 Testdrive [**anymak:END**](https://keyboard-layout-try-out.pages.dev/?l0r0=q+w+e+r+t++y+u+i+o+p&l0r1=a+s+d+f+g++h+j+k+l+%3B+%27&l0r2=z+x+c+v+b++n+m+%2C+.+%2F&l1r0=q+k+o+u+y++v+d+c+l+f+&l1r1=h+a+e+i+%2C++g+t+r+n+s+j&l1r2=%2F+z+%27+.+x++b+p+m+w+%3B&z=z) here when you use QWERTY or a layout such as Colemak, Graphite or others. Choose 'Current layout' on the left side then! :-)
 
-Probiere [**anymak:END**](https://keyboard-layout-try-out.pages.dev/?l0r0=q+w+e+r+t++z+u+i+o+p+ü&l0r1=a+s+d+f+g++h+j+k+l+ö+ä&l0r2=z+x+c+v+b++n+m+%2C+.+-&l1r0=q+k+o+u+y++v+d+c+l+f+j&l1r1=h+a+e+i+%2C++g+t+r+n+s+&l1r2=%2F+z+%27+.+x++b+p+m+w+%3B&z=z) als QWERTZ-Tipper! :-)
+For QWERTZ users (German layout): [**anymak:END**](https://keyboard-layout-try-out.pages.dev/?l0r0=q+w+e+r+t++z+u+i+o+p+ü&l0r1=a+s+d+f+g++h+j+k+l+ö+ä&l0r2=z+x+c+v+b++n+m+%2C+.+-&l1r0=q+k+o+u+y++v+d+c+l+f+j&l1r1=h+a+e+i+%2C++g+t+r+n+s+&l1r2=%2F+z+%27+.+x++b+p+m+w+%3B&z=z) 
 
 
 # anymak:END — multi-lingual keyboard layout
@@ -55,10 +55,10 @@ END works well for English-only use. But derivates optimized for other language 
 4. Navigation and Shortcut layer
 
  
-**Umlauts, Trema and accents** needed for German and Dutch are easily accesible (two keystrokes needed to type *ä*), while French and Spanish are also supported as second priority language. Other **accents**, for example ~ ` ^ are realized as dead keys on the symbol layer (three key strokes needed to type *é*).
+**Umlauts, Trema and accents** needed for German and Dutch are easily accessible (two keystrokes needed to type *ä*), while French and Spanish are also supported as second priority language. Other **accents**, for example ~ ` ^ are realized as dead keys on the symbol layer (three key strokes needed to type *é*).
   
-## Layer overwiew
-A major advantage is that you can use any type of keyboard with anymak:END. The following graphic shows the base layer on a standard ANSI / ISO keyboad and which fingers to use. Note that the bottom left is symmetrical to the right. This is important for the ergonomic use of a standard keyboard. The B-key position (in QWERTY) is not easy to reach with a symmetrical hand position. Therefore this key-position on an ANSI/ ISO keyboard is not used for the layout itself.
+## Layer overview
+A major advantage is that you can use any type of keyboard with anymak:END. The following graphic shows the base layer on a standard ANSI / ISO keyboard and which fingers to use. Note that the bottom left is symmetrical to the right. This is important for the ergonomic use of a standard keyboard. The B-key position (in QWERTY) is not easy to reach with a symmetrical hand position. Therefore this key-position on an ANSI/ ISO keyboard is not used for the layout itself.
 
 <img width="2332" height="1082" alt="image" src="https://github.com/user-attachments/assets/d051405b-d941-4ace-877c-84e794864eb5" />
 
@@ -100,7 +100,7 @@ The graphics not only show the movements of fingers on one hand, but also gives 
 - dark blue: finger skip - outwards movement (line to the bottom)
 
 ## anymak:END
-The graphs show that the typing flow is calm, largely on the home row, then on the top row and very few on the bottow row. You see that motions are largely inward rolls and no really ugly finger movements stand out. This is in stark contrast to QWERTY and to a lesser degree also compared to Colemak.
+The graphs show that the typing flow is calm, largely on the home row, then on the top row and very few on the bottom row. You see that motions are largely inward rolls and no really ugly finger movements stand out. This is in stark contrast to QWERTY and to a lesser degree also compared to Colemak.
 
 ![image](https://github.com/user-attachments/assets/3b1d9df7-627a-4631-9995-d364c7cda539)
 
