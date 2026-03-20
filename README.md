@@ -149,6 +149,10 @@ Option 1 (Keyboard - language setting) alone is not possible. It would first req
 ## Using the Kanata script
 To be able to test or directly use the layout with any keyboard (even laptops) I offer a Kanata configuration file. Download [Kanata](https://github.com/jtroo/kanata) and put the config file 'kanata.kbd' you download here, in the same folder and run kanata. See here [How to configure Kanata for Windows](https://rpnfan.github.io/keyboard-heaven/how-to/kanata-autostart-windows/). To use the layout activate the "US International" keyboard layout in Windows. Similar on Linux (tested) and macOS (untested by me, but should work similar).
 
+**Adapting Kanata to your personal wishes**
+
+The Kanata config file is commented and should allow you to make adaptions according your needs. Check the Kanata documentation on Github and the discussions there if you need help.
+
 **Potential Cons of using Kanata**
 
 Setting up the Kanata file takes more knowledge (time and reading). But after the script is in place it actually is faster and easier to update then many other options. When you decide to use the anymak:END layout as is, the configuration work is done for you and you just need to download Kanata and place the 'kanata.kbd' file in the same folder and run Kanata. On Windows another downside is that Kanata is not as deeply integrated and some applications might not recognize the remapped keys. This is very seldom a problem in daily use, but especially when defining hotkeys in Windows programs they often check the scan code (key position) and do not get the remapped key code. Interestingly most programs recognize the remapped hotkeys fine, when the program is used. Just the input field to define the hotkey behaves differently. A workaround can be to deactivate Kanata to define the hotkeys and then turn it back on. Finally when Kanata needs to work in a Windows Terminal with admin rights, Kanata needs to run with admin rights as well. 
