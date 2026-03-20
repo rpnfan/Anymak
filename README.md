@@ -149,7 +149,7 @@ Each layout is tested for these languages: Czech, Danish, Dutch, English, Finnis
 
 # Implementation Options
 
-A custom keyboard layout like Anymak:END can be implemented through:
+A custom keyboard layout like anymak:END can be implemented through:
 
 | Option | What is needed | Advantage | Disadvantage |
 |--------|-------------|----------|---------|
