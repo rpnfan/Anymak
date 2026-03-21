@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/51167072-4cf3-46ca-9ce0-8ef2ded2a911)
  
-**Anymak** is a keyboard layout approach designed to significantly enhance typing comfort and efficiency. By rearranging keys and utilizing one-shot modifiers and bottom-row mods, Anymak makes it easier to access common keys like Shift, symbols, and navigation shortcuts, while minimizing finger stretching. A major design goal is that the same comfortable fingering works on both a standard ANSI/ISO keyboard and a split columnar-stagger ergonomic keyboard — so you can use your programmable keyboard at your desk and your laptop on the go, with no meaningful adjustment needed.
+**Anymak** is a keyboard layout approach designed to significantly enhance typing comfort and efficiency. By rearranging keys and utilizing one-shot layer access and bottom-row mods, Anymak makes it easier to access common keys like Shift, symbols, and navigation shortcuts, while minimizing finger stretching. A major design goal is that the same comfortable fingering works on both a standard ANSI/ISO keyboard and a split columnar-stagger ergonomic keyboard — so you can use your programmable keyboard at your desk and your laptop on the go, with no meaningful adjustment needed.
 
 Anymak is a versatile concept, compatible to be adapted to any alphanumeric layout. You can continue using QWERTY, Colemak, Graphite, or any other layout you prefer. My own implementation pairs the Anymak layer concept with a fully optimized multi-language alpha layout called "END" — optimized for English, German, and Dutch, with good support for French, Spanish, and Nordic languages. Together these form anymak:END. A ready-to-run Kanata configuration for Windows, Linux, and macOS is available for download here.
 
@@ -188,7 +188,7 @@ For many users combining US International keyboard setting with the provided Kan
 
 In general using a programmable keyboard is the best option, if you have a chance to use one. This works reliable in all use cases, because no remapping in software is needed and the keyboard directly sends the correct wanted scancodes to the computer. 
 
-There are just two drawbacks. First, programmable keyboards can be pricey and you cannot use a laptop or another keyboard instead. Second, you need to be able to configure the keyboard. That requires some knowledge on your side and also that the keyboard firmware supports all needed features. Some keyboards, for example the one from ZSA, do not support all features at all or in an easy to implement way. ZSA's Oryx does not allow shift-override, which is a feature you will need to implement anymak:END. You will have to compile a QMK firmware instead to realize that.
+There are just two drawbacks. First, programmable keyboards can be pricey and you cannot use a laptop or another keyboard instead. Second, you need to be able to configure the keyboard. That requires some knowledge on your side and also that the keyboard firmware supports all needed features. Some keyboards, for example the ones from ZSA, do not support all features at all or in an easy to implement way. ZSA's Oryx does not allow shift-override, which is a feature you will need to implement anymak:END. You will have to compile a QMK firmware instead to realize that.
 
 
 # Resources
