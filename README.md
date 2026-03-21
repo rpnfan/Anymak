@@ -69,7 +69,7 @@ The name END also hints to marking the final destination of [my keyboard layout 
 
 ## Layer Visualizations
 
-The following images show all four layers. The layout works identically on both standard ANSI/ISO keyboards and split columnar-stagger keyboards — only the physical key positions differ, not the fingering.
+The following images show all four layers. The layout works identically on both standard ANSI / ISO keyboards and split columnar-stagger keyboards — only the physical key positions differ, not the fingering.
 
 <img width="2332" height="1082" alt="image" src="https://github.com/user-attachments/assets/d051405b-d941-4ace-877c-84e794864eb5" />
 
