@@ -16,23 +16,28 @@ The following six design decisions characterize the holistic Anymak concept:
 
 - **No held modifiers for text input**
   
-  Shift and the symbol layer are both accessed via dedicated one-shot keys. You tap the layer key, then tap the character — no holding, no timing, no synchronization required. This is where speed matters most, and held modifiers hurt most. One-shot keys are less error-prone, more comfortable, and potentially faster. Both Shift and Symbol layer keys are in easy to reach positions on the keyboard.
+  Shift and the symbol layer are both accessed via dedicated one-shot keys. You tap the layer key, then tap the character — no holding or hand synchronization is required. Text input is where speed really matters, and held modifiers hurt most. Using one-shot layer switching is less error-prone, more comfortable, and is a little bit faster even. To work seamlessly it is important that both Shift and Symbol layer keys are in easy to reach positions on the keyboard, which Anymak takes care of.
+
+> Note: In contrast timed approaches such as auto-shift might seem a good solution and indeed they are comfortable to use. But they disrupt the typing flow, especially for fast typists, and they must be tuned per person and per typing speed.
 
 - **Navigation always within reach**
 
   Holding the Space key activates a full navigation and shortcut layer, accessible with either thumb from the natural rest position. No jumping around between small thumb-cluster keys. The layer includes arrow keys, Enter, Backspace, Delete, word-jump, Cut/Copy/Paste, Undo/Redo, tab management, F-keys, and more. Because navigation is deliberate and slower than text typing by nature, the slight cost of a held key is not relevant here.
+  
+   A single wide Space bar — present on every keyboard from laptop to split ergonomic — is all that is needed. This avoids overloading the thumb with multiple small 1u keys, which has [well-documented ergonomic risks](https://getreuer.info/posts/keyboards/thumb-ergo/index.html).
+
+- **Modifier and layer keys always on the opposite hand**
+  
+   Shift, the symbol layer key, and the navigation layer on the Space key are each available symmetrically on both sides. This means the modifier key is always pressed by the opposite hand — maximizing hand alternation, eliminating same-hand conflicts, and giving the other hand time to get into position for the next keystroke.
+
 
 - **Bottom-row mods that actually work**
    
     Ctrl, Alt, and Win/OS are on the bottom row as hold-keys. Because these are only triggered deliberately — never during fast text input — the timing conflicts that plague home-row mods simply do not arise. Shift is a dedicated key in the same row, making Shift+Ctrl and similar combos straightforward.
 
 - **Identical fingering on any keyboard**
-   
-   The symmetrical left and right hand position, also on the bottom row (sometimes called angle-mod), and the deliberate exclusion of the standard keyboard B-key position mean that the same comfortable finger positions translate directly between a standard row-stagger, such as on laptop, and a columnar-stagger keyboard. No mental adjustment when switching between them.
 
-- **Works on any keyboard**
-
-   A standard 3×6 layout with one main thumb key per side is sufficient. Works on 4×6 and larger keyboards, split keyboards, and standard ANSI/ISO keyboards. Even 3×5 keyboards can be accommodated with minor adaptation.
+      The symmetrical hand position on the bottom row and the deliberate exclusion of the B-key position mean that the same comfortable finger positions translate directly between a standard row-stagger keyboard and a columnar-stagger keyboard — without any mental adjustment when switching between laptop and desk setup. A standard 3×6 layout with one main thumb key per side is sufficient; the concept also works on 4×6, split, and standard ANSI/ISO keyboards, and can be adapted to 3×5 with minor changes.
 
 - **Holistic alpha layout optimization**
    
