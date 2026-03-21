@@ -53,7 +53,7 @@ END is my alpha layout developed to integrate into the Anymak concept. END stand
 
 The name END also hints to marking the final destination of [my keyboard layout journey](https://rpnfan.github.io/keyboard-heaven/after-party/keyboard-journey/) :-)
 
-END works well for English-only use. But derivatives optimized for other language combinations can be created using the tools and approach outlined in [this article](https://kbd.news/END-my-final-keyboard-layout-2609.html). 
+**Note:** END works well for English-only use. But derivatives optimized for other language combinations can be created using the tools and approach outlined in [this article](https://kbd.news/END-my-final-keyboard-layout-2609.html). 
 
 ## The Four Layers of anymak:END
 
@@ -66,7 +66,6 @@ END works well for English-only use. But derivatives optimized for other languag
 
 **Diacritics:** Umlauts, trema, and accents needed for German and Dutch are easily accessible (two keystrokes for `ä`). French and Spanish are supported as secondary languages. Other accents (`ñ`, `~`, `'`, `^`) are available as dead keys on the symbol layer (three keystrokes for `é`).
 
-**Note:** END works well for English-only use. Derivatives optimized for other language combinations can be created using the tools and approach outlined in [this article](LINK).
 
 ## Layer Visualizations
 
