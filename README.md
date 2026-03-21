@@ -48,7 +48,7 @@ Testdrive [**anymak:END**](https://keyboard-layout-try-out.pages.dev/?l0r0=q+w+e
 For QWERTZ users (German layout): [**anymak:END**](https://keyboard-layout-try-out.pages.dev/?l0r0=q+w+e+r+t++z+u+i+o+p+ü&l0r1=a+s+d+f+g++h+j+k+l+ö+ä&l0r2=z+x+c+v+b++n+m+%2C+.+-&l1r0=q+k+o+u+y++v+d+c+l+f+j&l1r1=h+a+e+i+%2C++g+t+r+n+s+&l1r2=%2F+z+%27+.+x++b+p+m+w+%3B&z=z) 
 
 
-# anymak:END — multi-lingual keyboard layout
+# anymak:END — Multi-lingual Keyboard Layout
 END is my alpha layout developed to integrate into the Anymak concept. END stands for the 3 languages it was designed for ⇒ E = English, N = Nederlands, D = Deutsch.
 
 The name END also hints to marking the final destination of [my keyboard layout journey](https://rpnfan.github.io/keyboard-heaven/after-party/keyboard-journey/) :-)
@@ -108,7 +108,7 @@ The metrics below show anymak:END is a well-balanced layout across multiple crit
 ## French
 ![image](https://github.com/user-attachments/assets/6fb36121-1e45-4d50-b36d-65d9f41c2d52)
 
-# Graphical evaluation
+# Graphical Evaluation
 The graphics not only show the movements of fingers on one hand, but also gives numbers of the frequency of the used keys, row jumps and so on. A line bowed to the top means inward movement of fingers. A line bowed to the bottom represents outward movement. The color coding of the graphic is as follows:
 
 - pink: same finger bigram
@@ -130,7 +130,7 @@ The graphs show that the typing flow is calm, largely on the home row, then on t
 
 ![image](https://github.com/user-attachments/assets/421a71c3-28c6-4e07-89e3-76b119f1cbd1)
 
-## Common layouts for comparison
+## Common Layouts for Comparison
 ![image](https://github.com/user-attachments/assets/eacb8f29-38ff-4086-a1ad-085c9288cb4b)
 
 ![image](https://github.com/user-attachments/assets/3b6db9cb-1812-464c-aafc-fe0ea4f5a69e)
@@ -146,7 +146,7 @@ The graphs show that the typing flow is calm, largely on the home row, then on t
 ![image](https://github.com/user-attachments/assets/4685b817-4337-4e59-80b8-836c9f8a2856)
 
 
-# Layout evaluation for 20 layouts and 14 languages
+# Layout Evaluation for 20 Layouts and 14 Languages
 For more languages and layout comparisons download or clone the repo. In the evaluation folder you find the detailed numerical and graphical evaluations for many common or popular layouts. Besides anymak:END you will find evaluations for: AdNW, BEAKL, Bone, Canary, Colemak, Colemak-DH, Dvorak, Engram, Focal, Gallium, Graphite, Hands-Down-Neu, KOU, KOY, Middlemak-NH, Neo, Noted, QWERTY and QWERTZ, and Sturdy.
 
 Each layout is tested for these languages: Czech, Danish, Dutch, English, Finnish, French, German, Hungarian, Italian, Polish, Portuguese, Spanish, Swedish and Turkish. Read the documentation in the evaluation folder and [this article](https://kbd.news/END-my-final-keyboard-layout-2609.html) on kbd.news.
