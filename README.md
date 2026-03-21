@@ -135,6 +135,8 @@ The graphs show that the typing flow is calm, largely on the home row, then on t
 ![image](https://github.com/user-attachments/assets/421a71c3-28c6-4e07-89e3-76b119f1cbd1)
 
 ## Common Layouts for Comparison
+All layouts are shown with symmetrical fingering. Traditional fingering would slightly look different for some layouts. 
+
 ![image](https://github.com/user-attachments/assets/eacb8f29-38ff-4086-a1ad-085c9288cb4b)
 
 ![image](https://github.com/user-attachments/assets/3b6db9cb-1812-464c-aafc-fe0ea4f5a69e)
