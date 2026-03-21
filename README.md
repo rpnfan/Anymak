@@ -16,7 +16,7 @@ The following six design decisions characterize the holistic Anymak concept:
 
 - **No held modifiers for text input**
   
-  Shift and the symbol layer are both accessed via dedicated one-shot keys. You tap the layer key, then tap the character — no holding, no timing, no synchronization required. This is where speed matters most, and held modifiers hurt most. One-shot keys are less error-prone, more comfortable, and potentially faster.
+  Shift and the symbol layer are both accessed via dedicated one-shot keys. You tap the layer key, then tap the character — no holding, no timing, no synchronization required. This is where speed matters most, and held modifiers hurt most. One-shot keys are less error-prone, more comfortable, and potentially faster. Both Shift and Symbol layer keys are in easy to reach positions on the keyboard.
 
 - **Navigation always within reach**
 
