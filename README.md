@@ -8,7 +8,8 @@ Anymak is a versatile concept, compatible to be adapted to any alphanumeric layo
 
 Most alternative layouts optimize only the alpha keys — treating Shift, symbols, modifiers, and navigation as afterthoughts, if at all. Anymak addresses all of these as a unified system.
 
-<img width="1500" height="1233" alt="anymak-concept" src="https://github.com/user-attachments/assets/b98be389-3129-4708-acac-d4357627dc08" />
+<img width="1500" height="1233" alt="anymak-concept_what_others_miss" src="https://github.com/user-attachments/assets/24e039e8-5dbd-4ddc-bda5-e679346abaaf" />
+
 
 
 The following six design decisions characterize the holistic Anymak concept:
