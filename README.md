@@ -52,6 +52,8 @@ Testdrive [**anymak:END**](https://keyboard-layout-try-out.pages.dev/?l0r0=q+w+e
 
 For QWERTZ users (German layout): [**anymak:END**](https://keyboard-layout-try-out.pages.dev/?l0r0=q+w+e+r+t++z+u+i+o+p+ü&l0r1=a+s+d+f+g++h+j+k+l+ö+ä&l0r2=z+x+c+v+b++n+m+%2C+.+-&l1r0=q+k+o+u+y++v+d+c+l+f+j&l1r1=h+a+e+i+%2C++g+t+r+n+s+&l1r2=%2F+z+%27+.+x++b+p+m+w+%3B&z=z) 
 
+For a more systematic evaluation, a [word list and scoring spreadsheet](https://www.reddit.com/r/KeyboardLayouts/comments/1r1eegt/try_out_keyboard_layouts_a_systematic_approach/) can help you compare anymak:END against your current layout by rating how each word feels to type — a method that works for any two layouts you want to compare.
+
 
 # anymak:END — Multi-lingual Keyboard Layout
 END is my alpha layout developed to integrate into the Anymak concept. END stands for the 3 languages it was designed for ⇒ E = English, N = Nederlands, D = Deutsch.
