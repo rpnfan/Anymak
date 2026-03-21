@@ -44,7 +44,7 @@ The following six design decisions characterize the holistic Anymak concept:
     The END alpha layout was developed with Shift and symbol layer key positions included as part of the optimization — something most layout optimizers and layouts do not consider. The result is that the full typing system, including layer access, navigation  and modifier keys from the home-row position, is optimized together rather than in isolation.
 
 
-## Trying out anymak:END without learning it
+## Trying Out anymak:END Without Learning It
 
 You can test anymak:END interactively by mapping it to your current keyboard layout. This helps you get a feel for the layout before committing to learning it.
 
@@ -55,7 +55,7 @@ For QWERTZ users (German layout): [**anymak:END**](https://keyboard-layout-try-o
 For a more systematic evaluation, a [word list and scoring spreadsheet](https://www.reddit.com/r/KeyboardLayouts/comments/1r1eegt/try_out_keyboard_layouts_a_systematic_approach/) can help you compare anymak:END against your current layout by rating how each word feels to type — a method that works for any two layouts you want to compare.
 
 
-# anymak:END — Multi-lingual Keyboard Layout
+# anymak:END — Multi-Lingual Keyboard Layout
 END is my alpha layout developed to integrate into the Anymak concept. END stands for the 3 languages it was designed for ⇒ E = English, N = Nederlands, D = Deutsch.
 
 The name END also hints to marking the final destination of [my keyboard layout journey](https://rpnfan.github.io/keyboard-heaven/after-party/keyboard-journey/) :-)
