@@ -94,7 +94,7 @@ The metrics below show anymak:END is a well-balanced layout across multiple crit
 
 **Trade-off:** Due to fewer keys being used, the same-finger bigram (SFB) count is slightly higher. However, these are predominantly favorable SFBs: strong fingers (index and middle) moving from top row back to home row — where the finger needs to land anyway.
 
-> **Note:** Color coding (green/red) is relative within each column, not absolute. Colors indicate ranking within the comparison group, not practical significance.
+> **Note:** Color coding (green/red) is relative within each column, not absolute. Colors indicate ranking within the comparison group, not necessarily practical significance.
 
 ## English
 ![image](https://github.com/user-attachments/assets/e6c66680-9889-48ae-8a97-bc89f4e4d502)
