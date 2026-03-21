@@ -6,7 +6,11 @@ Anymak is a versatile concept, compatible to be adapted to any alphanumeric layo
 
 ## What Makes Anymak Different
 
-Most alternative keyboard layouts — and most layer schemes — solve only part of the problem how to optimize the keyboard experience. They optimize the alpha keys but treat Shift as an afterthought and ignore how symbols are accessed. They often require a specific key count or thumb arrangement. This most often results in forcing different finger positions when switching between a split ergonomic keyboard and a laptop. Or they use timed methods such as auto-shift, which is convenient but disrupts the typing flow. Last but not least they mostly do not take navigation and modifier keys into account. Anymak addresses all of these as a unified system with a small number of targeted changes to any existing alphanumeric layout.
+Most alternative layouts optimize only the alpha keys — treating Shift, symbols, modifiers, and navigation as afterthoughts, if at all. Anymak addresses all of these as a unified system.
+
+<img width="1500" height="1233" alt="anymak-concept" src="https://github.com/user-attachments/assets/f6568ee3-893c-4891-88f0-becea949e21f" />
+
+The following six design decisions characterize the holistic Anymak concept:
 
 - **No held modifiers for text input**
   
@@ -153,7 +157,7 @@ A custom keyboard layout like anymak:END can be implemented through:
 
 | Option | What is needed | Advantage | Disadvantage |
 |--------|-------------|----------|---------|
-|1. **Keyboard (Language) setting in the Operating System** | software [3] | Works consistently | Only alpha and symbol layer [1] |
+|1. **Keyboard (Language) setting in the Operating System** | Software [3] | Works consistently | Only alpha and symbol layer [1] |
 |2. **Programmable Keyboard** | QMK, ZMK, Via, Vial, UHK ... | Works consistently | Extra keyboard needed|
 |3. **Software Remapping** | Kanata, AutoHotkey ... | Works with laptop or any keyboard |Cases where it does not work [2] |
 
