@@ -76,15 +76,13 @@ The name END also hints to marking the final destination of [my keyboard layout 
 
 ## Layer Visualizations
 
-The following images show all four layers. The layout works identically on both standard ANSI / ISO keyboards and split columnar-stagger keyboards — only the physical key positions differ, not the fingering.
+The layout works identically on both standard ANSI / ISO keyboards and split columnar-stagger keyboards — only the physical key positions differ, not the fingering. Here an overview of the base layer on standard keyboard:
 
 <img width="2332" height="1082" alt="image" src="https://github.com/user-attachments/assets/d051405b-d941-4ace-877c-84e794864eb5" />
 
 *Note the symmetrical bottom-row positioning. The B-key position is intentionally unused to maintain the same comfortable finger placement on any keyboard type.*
 
-
 **For clarity, the complete layer set is shown on a split keyboard layout below:**
-
 
 ![image](https://github.com/user-attachments/assets/7c6a03a9-2f24-4b0a-9ea6-c7fa49fddeb4)
 
