@@ -209,6 +209,15 @@ I have published three articles on kbd.news which go into much more detail why I
 
 The content of these articles will be carried over to my website [Keyboard Heaven](https://rpnfan.github.io/keyboard-heaven/) which aims to help you to find the path to your personal *Keyboard Heaven*. There you can discover tips, layouts, and optimization strategies that make typing feel natural, comfortable, and even fun. For the geeks it has some deep dive articles about optimizing keyboard layouts and technical background such as how the windows keyboard chain works.
 
+# Related projects
+If the full anymak:END implementation isn't exactly what you're looking for, these alternatives from the same ecosystem might fit better:
+
+- [Spacemak](https://github.com/rpnfan/Spacemak/) -  A universal "layer-only" concept. It brings the Anymak navigation, shortcut, and modifier logic (SpaceFN, bottom-row mods) to any alphanumeric layout, allowing you to keep using QWERTY, Colemak, or others while gaining major ergonomic benefits. Essentially anymak:END minus the alpha layout and also retaining the standard keyboard B-key and Shift-position.
+
+- [EnDeu](https://github.com/rpnfan/EnDeu) -  An alternative alpha layout optimized for English and German. It is basically the same alpha layout like anymak:END, but retains the traditional B-key and shift-key positions and includes German diacritics on the base layer.
+It is nearly identical to anymak:END's base but keeps traditional B-key/Shift positions and adds German diacritics to the base layer. 
+Derivatives for French, Dutch, and others are in progress there too.
+
 # Star History
 Please star this project if it helped you! Your feedback shows me how many people benefit from these resources, which motivates me making keyboard layout optimization accessible to everyone. :-)
 
