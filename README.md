@@ -1,6 +1,18 @@
+
 ![image](https://github.com/user-attachments/assets/51167072-4cf3-46ca-9ce0-8ef2ded2a911)
- 
+
+| **Article Overview** |  |
+|------|---------|
+| 🖮 **Core Concept** | What makes Anymak different |
+| ⏱️ **Quick Start** | Trying without learning |
+| 🗺️ **Layers** | Layer overview |
+| 📊 **Analysis** | Numerical/graphical evaluation |
+| ⚙️ **Setup** | Implementation Options |
+| 🔗 **More** | Resources & Related projects |
+
+
 **Anymak** is a keyboard layout approach designed to significantly enhance typing comfort and efficiency. By rearranging keys and utilizing one-shot layer access and bottom-row mods, Anymak makes it easier to access common keys like Shift, symbols, and navigation shortcuts, while minimizing finger stretching. A major design goal is that the same comfortable fingering works on both a standard ANSI/ISO keyboard and a split columnar-stagger ergonomic keyboard — so you can use your programmable keyboard at your desk and your laptop on the go, with no meaningful adjustment needed.
+
 
 Anymak is a versatile concept, compatible to be adapted to any alphanumeric layout. You can continue using QWERTY, Colemak, Graphite, or any other layout you prefer. My own implementation pairs the Anymak layer concept with a fully optimized multi-language alpha layout called "END" — optimized for English, German, and Dutch, with good support for French, Spanish, and Nordic languages. Together these form anymak:END. A ready-to-run Kanata configuration for Windows, Linux, and macOS is available for download here.
 
