@@ -224,7 +224,7 @@ The content of these articles will be carried over to my website [Keyboard Heave
 # Related projects
 If the full anymak:END implementation isn't exactly what you're looking for, these alternatives from the same ecosystem might fit better:
 
-- [Spacemak](https://github.com/rpnfan/Spacemak/) -  A universal "layer-only" concept. It brings the Anymak navigation, shortcut, and modifier logic (SpaceFN, bottom-row mods) to any alphanumeric layout, allowing you to keep using QWERTY, Colemak, or others while gaining major ergonomic benefits. Essentially anymak:END minus the alpha layout and also retaining the standard keyboard B-key and Shift-position.
+- [Spacemak](https://github.com/rpnfan/Spacemak/) -  A lighter alternative to Anymak for those who want to keep their existing alphanumeric layout unchanged. Spacemak adds the SpaceFN navigation layer, bottom-row-mods and a CapsLock-based symbol layer without requiring any changes to the alpha layout. A good entry point if you want most of the navigation and shortcut benefits with minimal disruption to your current setup.
 
 - [EnDeu](https://github.com/rpnfan/EnDeu) -  An alternative alpha layout optimized for English and German. It is basically the same alpha layout like anymak:END, but retains the traditional B-key and shift-key positions and includes German diacritics on the base layer.
 It is nearly identical to anymak:END's base but keeps traditional B-key/Shift positions and adds German diacritics to the base layer. 
