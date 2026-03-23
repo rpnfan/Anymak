@@ -128,13 +128,10 @@ The metrics below show anymak:END is a well-balanced layout across multiple crit
 # Graphical Evaluation
 The graphics not only show the movements of fingers on one hand, but also gives numbers of the frequency of the used keys, row jumps and so on. A line bowed to the top means inward movement of fingers. A line bowed to the bottom represents outward movement. The color coding of the graphic is as follows:
 
-- pink: same finger bigram
-    
-- purple: neighbor finger
-    
-- light blue: finger skip - inwards movement (line to the top, start finger position in lighter color)
-    
-- dark blue: finger skip - outwards movement (line to the bottom)
+- **Pink:** Same-finger bigram
+- **Purple:** Neighbor-finger bigram
+- **Light blue:** Finger skip — inward movement (line curves upward; starting position shown in lighter color)
+- **Dark blue:** Finger skip — outward movement (line curves downward)
 
 ## anymak:END
 The graphs show that the typing flow is calm, largely on the home row, then on the top row and very few on the bottom row. You see that motions are largely inward rolls and no really ugly finger movements stand out. This is in stark contrast to QWERTY and to a lesser degree also compared to Colemak.
@@ -226,9 +223,7 @@ If the full anymak:END implementation isn't exactly what you're looking for, the
 
 - [Spacemak](https://github.com/rpnfan/Spacemak/) -  A lighter alternative to Anymak for those who want to keep their existing alphanumeric layout unchanged. Spacemak adds the SpaceFN navigation layer, bottom-row-mods and a CapsLock-based symbol layer without requiring any changes to the alpha layout. A good entry point if you want most of the navigation and shortcut benefits with minimal disruption to your current setup.
 
-- [EnDeu](https://github.com/rpnfan/EnDeu) -  An alternative alpha layout optimized for English and German. It is basically the same alpha layout like anymak:END, but retains the traditional B-key and shift-key positions and includes German diacritics on the base layer.
-It is nearly identical to anymak:END's base but keeps traditional B-key/Shift positions and adds German diacritics to the base layer. 
-Derivatives for French, Dutch, and others are in progress there too.
+- [EnDeu](https://github.com/rpnfan/EnDeu) -  An alternative alpha layout optimized for English and German. It uses essentially the same alpha layout as anymak:END, but retains the traditional B-key and Shift-key positions and includes German diacritics on the base layer. Derivatives for French, Dutch, and others are in progress there too.
 
 # Star History
 Please star this project if it helped you! Your feedback shows me how many people benefit from these resources, which motivates me making keyboard layout optimization accessible to everyone. :-)
