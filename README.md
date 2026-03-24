@@ -35,7 +35,7 @@ The following six design decisions characterize the holistic Anymak concept:
 
 - **Navigation always within reach**
 
-  Holding the Space key activates a full navigation and shortcut layer, accessible with either thumb from the natural rest position. No jumping around between small thumb-cluster keys. The layer includes arrow keys, Enter, Backspace, Delete, word-jump, Cut/Copy/Paste, Undo/Redo, tab management, F-keys, and more. Because navigation is deliberate and slower than text typing by nature, the slight cost of a held key is not relevant here.
+  Holding the Space key activates a full navigation and shortcut layer, accessible with either thumb from the natural rest position. No jumping around between small thumb-cluster keys. The layer includes arrow keys, Enter, Backspace, Delete, word-jump, Cut/Copy/Paste, Undo/Redo, tab management, Alt-tab F-keys, and more. Because navigation is deliberate and slower than text typing by nature, the slight cost of a held key is not relevant here.
   
    A single wide Space bar — present on every keyboard from laptop to split ergonomic — is all that is needed. This avoids overloading the thumb with multiple small 1u keys, which has [well-documented ergonomic risks](https://getreuer.info/posts/keyboards/thumb-ergo/index.html).
 
