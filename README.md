@@ -50,7 +50,7 @@ The following six design decisions characterize the holistic Anymak concept:
 
 - **Identical fingering on any keyboard**
 
-   The symmetrical hand position on the bottom row and the deliberate exclusion of the B-key position (in QWERTY) mean that the same comfortable finger positions translate directly between a standard row-stagger keyboard and a columnar-stagger keyboard — without any mental adjustment when switching between laptop and desk setup. A standard 3×6 layout with one main thumb key per side is sufficient; the concept also works on 4×6, split, and standard ANSI/ISO keyboards, and can be adapted to 3×5 with minor changes.
+   The symmetrical hand position on the bottom row and the deliberate exclusion of the B-key position (in QWERTY) mean that the same comfortable finger positions translate directly between a standard row-stagger keyboard and a columnar-stagger keyboard — without any mental adjustment when switching between laptop and desk setup. The default layout is designed for a standard 4×6 layout with one main thumb key per side only; the concept also works on standard ANSI/ISO keyboards, and can be adapted to 3x6 or 3×5 with minor changes.
 
 - **Holistic alpha layout optimization**
    
