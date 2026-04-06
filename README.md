@@ -75,6 +75,13 @@ The name END also hints to marking the final destination of [my keyboard layout 
 
 **Note:** END works well for English-only use. But derivatives optimized for other language combinations can be created using the tools and approach outlined in [this article](https://kbd.news/END-my-final-keyboard-layout-2609.html). 
 
+## What makes anymak:END feel good to type
+To assure foremost a comfortable typing feel, rather optimizing for analyzers metrics in the first place, the layout was designed with the following in mind:
+- Put most work on the strong index and middle finger.
+- Very high amount of inward rolls in combination with many hand alternations.
+> Most layouts optimise strongly for alternations or rolls; achieving a high level of both simultaneously is uncommon and contributes to a fluid typing feel at speed.
+- Very low number of redirects and scissors, which reduce the awkward direction changes and uncomfortable cross-finger movements that cause fatigue over long sessions.
+
 ## The Four Layers of anymak:END
 
 | Layer | Purpose | Access Method |
@@ -111,6 +118,8 @@ The layout works identically on both standard ANSI / ISO keyboards and split col
 The metrics below show anymak:END is a well-balanced layout across multiple criteria. A key design goal was avoiding uncomfortable key positions, resulting in lower overall effort than comparable layouts.
 
 **Trade-off:** Due to fewer keys being used, the same-finger bigram (SFB) count is slightly higher. However, these are predominantly favorable SFBs: strong fingers (index and middle) moving from top row back to home row — where the finger needs to land anyway.
+
+**Advantages not shown in the nubers:** Analyzers do not credit the easy-to-reach one-shot shift and symbol layer keys — meaning anymak:END's real world effort is lower than the numbers show. That is compared to layout implementations where Shift is not as comfortable to reach. Also the navigation, shortcut and editing layer is a major benefit in everyday use, but not taken into account by any analyzer.
 
 > **Note:** Color coding (green/red) is relative within each column, not absolute. Colors indicate ranking within the comparison group, not necessarily practical significance.
 
