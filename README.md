@@ -20,10 +20,7 @@ Anymak is a versatile concept, compatible to be adapted to any alphanumeric layo
 
 Most alternative layouts optimize only the alpha keys — treating Shift, symbols, modifiers, and navigation as afterthoughts, if at all. Anymak addresses all of these as a unified system.
 
-
 <img width="1500" height="1233" alt="anymak-concept_what_others_miss" src="https://github.com/user-attachments/assets/21381176-2fcf-42b6-b2de-806b11ae1e6e" />
-
-
 
 The following six design decisions characterize the holistic Anymak concept:
 
@@ -96,13 +93,18 @@ For a more systematic evaluation, a [word list and scoring spreadsheet](https://
 
 ## Layer Visualizations
 
-The layout works identically on both standard ANSI / ISO keyboards and split columnar-stagger keyboards — only the physical key positions differ, not the fingering. Here an overview of the base layer on standard keyboard:
+The layout was designed with using a symmetrical left and right hand position. This works best on a columnar split keyboard, but can also be applied on a standard ANSI / ISO keyboard. Only the physical key positions differ a little bit, not the fingering. Here an overview of the base layer on standard keyboard:
 
 <img width="2332" height="1082" alt="image" src="https://github.com/user-attachments/assets/d051405b-d941-4ace-877c-84e794864eb5" />
 
 *Note the symmetrical bottom-row positioning. The B-key position is intentionally unused to maintain the same comfortable finger placement on any keyboard type.*
 
-**For clarity, the complete layer set is shown on a split keyboard layout below:**
+The following animation illustrates how a symmetrical hand position can be "translated" between a standard and a columnar split keyboard:
+
+<img width="979" height="359" alt="angle-mod2ergo" src="https://github.com/user-attachments/assets/17052d48-4912-401c-86d4-d98090aa80ae" />
+
+
+**For clarity, the complete layer set is shown on a split keyboard layout below. This is what I personally use, when not tied to a laptop:**
 
 ![image](https://github.com/user-attachments/assets/7c6a03a9-2f24-4b0a-9ea6-c7fa49fddeb4)
 
