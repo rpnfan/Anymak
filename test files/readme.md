@@ -22,7 +22,7 @@ Example:
 
 * ... and so on for the different versions
   
-* In most cases you want to use optemXX.exe (XX = 32 .. 56 keys), you can use the other binaries as fallback when the multithread version would not run on your PC.
+* In most cases you want to use optemXX.exe (XX = 32 .. 52 keys), you can use the other binaries as fallback when the multithread version would not run on your PC.
 
 See "Anleitung Manual opt.pdf" for the full documentation (German and English).
 
