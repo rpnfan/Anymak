@@ -99,7 +99,7 @@ The layout was designed with using a symmetrical left and right hand position. T
 
 *Note the symmetrical bottom-row positioning. The B-key position is intentionally unused to maintain the same comfortable finger placement on any keyboard type.*
 
-The following animation illustrates how a symmetrical hand position can be "translated" between a standard and a columnar split keyboard:
+The following animation illustrates how a symmetrical hand position can be "translated" between a standard and a columnar split keyboard, the keys are shown in QWERTY positions:
 
 <img width="979" height="359" alt="angle-mod2ergo" src="https://github.com/user-attachments/assets/17052d48-4912-401c-86d4-d98090aa80ae" />
 
