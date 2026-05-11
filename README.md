@@ -93,7 +93,7 @@ For a more systematic evaluation, a [word list and scoring spreadsheet](https://
 
 ## Layer Visualizations
 
-The layout was designed with using a symmetrical left and right hand position. This works best on a columnar split keyboard, but can also be applied on a standard ANSI / ISO keyboard. Only the physical key positions differ a little bit, not the fingering. Here an overview of the base layer on standard keyboard:
+The layout was designed for using a symmetrical left and right hand position. This works best on a columnar split keyboard, but can also be applied on a standard ANSI / ISO keyboard. Only the physical key positions differ a little bit, not the fingering. Here an overview of the base layer on standard keyboard:
 
 <img width="2332" height="1082" alt="image" src="https://github.com/user-attachments/assets/d051405b-d941-4ace-877c-84e794864eb5" />
 
