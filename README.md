@@ -13,7 +13,6 @@
 
 **Anymak** is a keyboard layout approach designed to significantly enhance typing comfort and efficiency. By rearranging keys and utilizing one-shot layer access and bottom-row mods, Anymak makes it easier to access common keys like Shift, symbols, and navigation shortcuts, while minimizing finger stretching. A major design goal is that the same comfortable fingering works on both a standard ANSI/ISO keyboard and a split columnar-stagger ergonomic keyboard — so you can use your programmable keyboard at your desk and your laptop on the go, with no meaningful adjustment needed.
 
-
 Anymak is a versatile concept, compatible to be adapted to any alphanumeric layout. You can continue using QWERTY, Colemak, Graphite, or any other layout you prefer. My own implementation pairs the Anymak layer concept with a fully optimized multi-language alpha layout called "END" — optimized for English, German, and Dutch, with good support for French, Spanish, and Nordic languages. Together these form anymak:END. A ready-to-run Kanata configuration for Windows, Linux, and macOS, an example QMK and UHK config is available for download here. 
 
 ## What Makes Anymak Different
@@ -28,7 +27,8 @@ The following six design decisions characterize the holistic Anymak concept:
   
   Shift and the symbol layer are both accessed via dedicated one-shot keys. You tap the layer key, then tap the character — no holding or hand synchronization is required. Text input is where speed really matters, and held modifiers hurt most. Using one-shot layer switching is less error-prone, more comfortable, and is a little bit faster even. To work seamlessly it is important that both Shift and Symbol layer keys are in easy to reach positions on the keyboard, which Anymak takes care of.
 
-> Note: In contrast timed approaches such as auto-shift might seem a good solution and indeed they are comfortable to use. But they disrupt the typing flow, especially for fast typists, and they must be tuned per person and per typing speed.
+> [!NOTE]  
+> In contrast timed approaches such as auto-shift might seem a good solution and indeed they are comfortable to use. But they disrupt the typing flow, especially for fast typists, and they must be tuned per person and per typing speed.
 
 - **Navigation always within reach**
 
