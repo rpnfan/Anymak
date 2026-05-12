@@ -65,6 +65,7 @@ The name END also hints to marking the final destination of [my keyboard layout 
 To assure foremost a comfortable typing feel, rather optimizing for analyzers metrics in the first place, the layout was designed with the following in mind:
 - Put most work on the strong index and middle finger.
 - Very high amount of inward rolls in combination with many hand alternations.
+> [!NOTE]  
 > Most layouts optimise strongly for alternations or rolls; achieving a high level of both simultaneously is uncommon and contributes to a fluid typing feel at speed.
 - Very low number of redirects and scissors, which reduce the awkward direction changes and uncomfortable cross-finger movements that cause fatigue over long sessions.
 
