@@ -42,8 +42,8 @@ The following six design decisions characterize the holistic Anymak concept:
 
 
 - **Bottom-row mods that actually work**
-   
-    Ctrl, Alt, and Win/OS are on the bottom row as hold-keys. Because these are only triggered deliberately — never during fast text input — the timing conflicts that plague home-row mods simply do not arise. Shift is a dedicated key in the same row, making Shift+Ctrl and similar combos straightforward.
+
+    Ctrl, Alt, and Win/OS are on the bottom row as hold-keys. These are only triggered deliberately — rarely during fast text input — so their placement on the bottom row does not add significantly more effort. Because the characters on the bottom row have a much lower frequency than those on the home and top rows, the timing conflicts that plague home-row mods simply do not arise. Shift is a dedicated key in the same row, making Shift+Ctrl and similar combos straightforward.
 
 - **Identical fingering on any keyboard**
 
