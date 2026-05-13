@@ -59,7 +59,8 @@ END is my alpha layout developed to integrate into the Anymak concept. END stand
 
 The name END also hints to marking the final destination of [my keyboard layout journey](https://rpnfan.github.io/keyboard-heaven/after-party/keyboard-journey/) :-)
 
-**Note:** END works well for English-only use. But derivatives optimized for other language combinations can be created using the tools and approach outlined in [this article](https://kbd.news/END-my-final-keyboard-layout-2609.html). 
+> [!NOTE]
+> END works well for English-only use. But derivatives optimized for other language combinations can be created using the tools and approach outlined in [this article](https://kbd.news/END-my-final-keyboard-layout-2609.html). 
 
 ## What makes anymak:END feel good to type
 To assure foremost a comfortable typing feel, rather optimizing for analyzers metrics in the first place, the layout was designed with the following in mind:
@@ -77,7 +78,7 @@ Testdrive [**anymak:END**](https://keyboard-layout-try-out.pages.dev/?l0r0=q+w+e
 
 For QWERTZ users (German layout): [**anymak:END**](https://keyboard-layout-try-out.pages.dev/?l0r0=q+w+e+r+t++z+u+i+o+p+ü&l0r1=a+s+d+f+g++h+j+k+l+ö+ä&l0r2=z+x+c+v+b++n+m+%2C+.+-&l1r0=q+k+o+u+y++v+d+c+l+f+j&l1r1=h+a+e+i+%2C++g+t+r+n+s+&l1r2=%2F+z+%27+.+x++b+p+m+w+%3B&z=z) 
 
-For a more systematic evaluation, a [word list and scoring spreadsheet](https://github.com/rpnfan/KeyDuel) can help you compare anymak:END against your current layout by rating how each word feels to type — a method that works for any two layouts you want to compare.
+For a systematic evaluation, a [word list and scoring spreadsheet](https://github.com/rpnfan/KeyDuel) can help you compare anymak:END against your current layout by rating how each word feels to type — a method that works for any two layouts you want to compare.
 
 
 ## The Four Layers of anymak:END
@@ -94,7 +95,7 @@ For a more systematic evaluation, a [word list and scoring spreadsheet](https://
 
 ## Layer Visualizations
 
-The layout was designed for using a symmetrical left and right hand position. This works best on a columnar split keyboard, but can also be applied on a standard ANSI / ISO keyboard. Only the physical key positions differ a little bit, not the fingering. Here an overview of the base layer on standard keyboard:
+The layout was designed to for a symmetrical left and right hand position. This works best on a columnar split keyboard, but can also be applied on a standard ANSI / ISO keyboard. Only the physical key positions differ a little bit, not the fingering. Here an overview of the base layer on standard keyboard:
 
 <img width="2332" height="1082" alt="image" src="https://github.com/user-attachments/assets/d051405b-d941-4ace-877c-84e794864eb5" />
 
@@ -216,7 +217,7 @@ For many users combining US International keyboard setting with the provided Kan
 
 In general using a programmable keyboard is the best option, if you have a chance to use one. This works reliable in all use cases, because no remapping in software is needed and the keyboard directly sends the correct wanted scancodes to the computer. 
 
-There are just two drawbacks. First, programmable keyboards can be pricey and you cannot use a laptop or another keyboard instead. Second, you need to be able to configure the keyboard. That requires some knowledge on your side and also that the keyboard firmware supports all needed features. Some keyboards, for example the ones from ZSA, do not support all features at all or in an easy to implement way. ZSA's Oryx does not allow shift-override, which is a feature you will need to implement anymak:END. You will have to compile a QMK firmware instead to realize that. Example configurations for QMK and for UHK are under [Releases](../../releases) as well.
+There are just two drawbacks. First, programmable keyboards can be pricey and you cannot use a laptop or another keyboard instead. Second, you need to be able to configure the keyboard. That requires some knowledge on your side and also that the keyboard firmware supports all needed features. Some keyboards, for example the ones from ZSA, do not support all features at all or in an easy to implement way. ZSA's Oryx does not allow shift-override, which is a feature you will need to implement anymak:END. You will have to compile a QMK firmware instead to realize that. If you are restricted to a remapping solution such as Oryx, you can also adapt the layout accordingly and work around the limitations. A fully supported configurations for QMK and for UHK can be downloaded under [Releases](../../releases) as.
 
 
 # Resources
