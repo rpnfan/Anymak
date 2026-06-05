@@ -199,7 +199,7 @@ A custom keyboard layout like anymak:END can be implemented through:
 - Some applications may not recognize remapped keys for hotkey configuration (might work fine during normal use). Workaround: Temporarily disable Kanata when defining application hotkeys, then re-enable.
 - Kanata requires admin rights to function in Windows Terminal with admin privileges
 
-[3] Keyboard layout editor for Windows: [kbdedit](http://kbdedit.com/)
+[3] Keyboard layout editor for Windows: [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=102134)
 
 ## Recommendation 1: Kanata + US International
 
