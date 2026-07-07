@@ -229,7 +229,7 @@ I have published three articles on kbd.news which go into much more detail why I
 
 [END - My final keyboard layout](https://kbd.news/END-my-final-keyboard-layout-2609.html)
 
-The content of these articles will be carried over to my website [Keyboard Heaven](https://rpnfan.github.io/keyboard-heaven/) which aims to help you to find the path to your personal *Keyboard Heaven*. There you can discover tips, layouts, and optimization strategies that make typing feel natural, comfortable, and even fun. For the geeks it has some deep dive articles about optimizing keyboard layouts and technical background such as how the windows keyboard chain works.
+The content of these articles will be carried over to my website [Keyboard Heaven](https://rpnfan.github.io/keyboard-heaven/) which aims to help you to find the path to your personal *Keyboard Heaven*. There you can discover tips, layouts, and optimization strategies that make typing feel natural, comfortable, and even fun. For example [this widget](https://rpnfan.github.io/keyboard-heaven/how-to/tap-timeout-calibrator/) can help you to find your best tapping-timeout for home-row or bottom-row mods or tap-held layers. For the geeks it has some deep dive articles about optimizing keyboard layouts and technical background such as how the windows keyboard chain works.
 
 # Related projects
 If the full anymak:END implementation isn't exactly what you're looking for, these alternatives from the same ecosystem might fit better:
